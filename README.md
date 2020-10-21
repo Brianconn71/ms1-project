@@ -122,3 +122,24 @@ of Manson Avenue.
 
 * A cart, checkout and payment system to allow fans to purchase tickets and merchandise on the website.
 
+## Structure
+
+I decided to split the website up into three different pages with each page having a key role to play in the overall look and feel of the site.
+
+The home page is the landing page of the site, It is the page that a user will first land on. I have two clear Call To Action buttons on the main hero image on the 
+home page which immediately shows the user the two main things that they could want to do on the site. The first thing is to contact the band regarding a potential concert or a general query and the second CTA directs them to the merchandise section on the home page allowing
+them to browse the items for sale and make a purchase.
+
+The Navbar and the footer are consistent throughout the Website so as to allow familiarity for the users.
+I have laid out the homepage in order of the importance of the content. Some reviews of the band are put under the hero image of the home page so as to allow fans to have their say and for them to feel importance and also to allow new and potential fans 
+to get a feel from those in the know if they too will like Manson Avenue.
+
+The band Merchandise section on the home page allows for fans to purchase some band memorabilia and allows Manson Avenue to showcase their work.
+
+The Concert schedule is last on the home page as it is of lesser importance to every other section but it would be of more use to a regular and long term fan who has already been on the website before and knows about the band and just wants to check 
+when and where Manson Avenue are playing next.
+
+The about Us page is a page of vital importance for the band to get some new fans and to relate to there fans. 
+The page again is structured in line of importance. The first section answers some very basic questions that fans of the band may have such as who they are and where they began. There is then a CTA allowing for users to be taken to the Contact us page.
+After reading the basic questions and answers I felt that many users may want to know more about the band or even just want to send a good luck message or possibly book them for a performance so it is here I put the CTA.
+Below that I have a section labelled Band Members. This section just gives a very small insight into the band with the hopes that they can relate with their fans.
