@@ -143,3 +143,20 @@ The about Us page is a page of vital importance for the band to get some new fan
 The page again is structured in line of importance. The first section answers some very basic questions that fans of the band may have such as who they are and where they began. There is then a CTA allowing for users to be taken to the Contact us page.
 After reading the basic questions and answers I felt that many users may want to know more about the band or even just want to send a good luck message or possibly book them for a performance so it is here I put the CTA.
 Below that I have a section labelled Band Members. This section just gives a very small insight into the band with the hopes that they can relate with their fans.
+
+The conatct us page is laid out as minimalistic as I could have done. My main reason for this is because once Manson Avenue get a fan or user this far, the transition into a potential customer needs to be quci
+and painless for them.
+
+The Header will include a picture of a microphone so as to giving their fans a feel of being part of the band.
+I also have some text on the header so as to make it very clear what I want a user to do once they get to this page and 
+that is to fill out the contact form below and submit it.
+
+The contact form will include a field to enter their name, email address and a message or query that the user may have for the band.
+
+## Skeleton
+
+### WireFrames
+
+Home Page Desktop:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-desktop.png "Home Page Desktop Wireframe")
