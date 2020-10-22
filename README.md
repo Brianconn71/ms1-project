@@ -16,7 +16,7 @@ also to give current fans a way to communicate directly with the band.
 
 ### Description
 
-This project was undertaken based on some personal inspiration I had based on the fact that a lot of musicians websites are quite clunky, hard to manouver and thereis always a sense that there is too much going on. I wanted to implement a minimalist stye
+This project was undertaken based on some personal inspiration I had based on the fact that a lot of musicians websites are quite clunky, hard to manouver and there is always a sense that there is too much going on. I wanted to implement a minimalist stye
 that appeals to new fans and old fans. 
 
 The main Nav bar at the top of the page will be fixed and should stay at the top of the page as a user scrolls so to make for much easier 
@@ -200,3 +200,118 @@ Contact us Page Phone:
   * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-phone.png)
 
 * About us
+  *[Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-desktop.png)
+  *[Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-tablet.png)
+  *[Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-phone.png)
+
+* Contact us
+  *[Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-desktop.png)
+  *[Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-tablet.png)
+  *[Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-phone.png)
+
+## Surface
+
+The Surface plane of the website is all about the visual representation of the information dislayed. It was important for me to keep a consistent
+"smoky" theme to the website. I modelled the band around a kind of Indie rock band. Indie Rock always gives a feel of "smokiness" or edginess.
+I wanted to maintain a consistent dark theme with bright CTA buttons and make sure the writing on the website had easy readability.
+
+### Color
+
+The main colors used throughout the project are as follows:
+
+* #1C304A is the background color for the Navbar and footer and in certain sections throughout the website. It is a dark blue, gray kind of color which goes well with my overall theme.
+* #E5E5E5 is the color of the font on the website which I feel goes well with the dark background.
+* #02C8F6 is the main button color. It is a bright blue which both complements the dark background and stands out too.
+
+### Images 
+
+The images have all been taken from [Unsplash](www.unsplash.com) and are credited in the credits section.
+These images are primarily dark to go with the theme of the website.
+
+### Fonts
+
+There are two fonts in use throughout the website. The main heading font is [Montserrat](https://fonts.google.com/specimen/Montserrat?query=monts) and the paragraph writing and sub text is [Roboto](https://fonts.google.com/specimen/Roboto?query=robo).
+The default font will also be sans-serif.
+
+I chose these fonts as they complement each other very well and have easy readability for users.
+
+---
+
+# Technologies used
+
+* [HTML5](https://html.com/html5/)
+  * HTML5 was the primary language used in the creation of this website.
+
+* [CSS3](https://www.tutorialspoint.com/css/css3_tutorial.htm)
+  * CSS3 was used to style the website.
+
+* [Bootstrap](https://getbootstrap.com/)
+  * I used Bootstrap 4 as framework for the responsiveness of the site. I also used some bootstrap components in the making of the site.
+
+* [Gitpod](https://www.gitpod.io/)
+  * Gitpod was used as the primary IDE environment in which I created the site.
+
+* [GitHub](https://www.github.com)
+  * GitHub was used to host the website and create the repositories for the website.
+
+* [Figma](https://www.figma.com/)
+  * Figma was where I created the wireframes for my website, I also got the colors for the website by using Figma too.
+
+* [Git](https://git-scm.com/)
+  * Git was used for version control of the site. I used git commands to regularly update, delete and add vaarious elements to the website.
+
+* [Google Fonts](https://fonts.google.com/)
+  * I used two different fonts in the making of this site. *Montserrat* was used primarily for headings and *Robot* was used primarily for paragraph text and the smaller font sizes.
+
+* [Font Awesome](https://fontawesome.com/)
+  * I used Icons from Font Awesome for the social media icons in the footer of the site.
+
+* [W3](https://www.w3schools.com/)
+  * W3 schools was used for troubleshooting issues I had relating to HTML5 and CSS3.
+
+* [Favicon](https://favicon.io/)
+  * Favicon was used to make the favicon used on the site.
+
+---
+
+## Testing 
+
+## Deployment
+
+
+## Credits
+
+### Content
+
+* The idea for the website was my own. I wanted to make a nice, simple, minimalist design for a bands webpage.
+However, I did get some inspiration for media querys and overall how to make an attractive responsive website from Gary Simon
+on YouTube and his fantastic video which can be found [here](https://www.youtube.com/watch?v=8gNrZ4lAnAw&list=LL&index=13&t=3058s&ab_channel=DesignCourse).
+
+### media
+
+
+* I used Unsplash for all of the images on the site. I have linked them below.
+  * [Hero Image on Home Page](https://unsplash.com/photos/Jxd7dzQqdl8)
+  * [Male reviewer on Home Page](https://unsplash.com/photos/DItYlc26zVI)
+  * [Female reviewer on Home Page](https://unsplash.com/photos/rDEOVtE7vOs)
+  * [Carosel image 1 on About us Page](https://unsplash.com/photos/eC0P7kl_jXs)
+  * [Band Member 1 About us Page](https://unsplash.com/photos/QA-qQfWJM0E)
+  * [Band Member 2 About us Page](https://unsplash.com/photos/eivYBKv3MAs)
+  * [Band Member 3 About Us Page](https://unsplash.com/photos/uKHNBVLmFqQ)
+  * [Band Member 4 About us Page](https://unsplash.com/photos/aSivyt-3yIw)
+  * [Band Member 5 About us Page](https://unsplash.com/photos/P4gXe-RsEXI)
+  * [Microphone image on Contact us Page](https://unsplash.com/photos/QrqeusbpFMM)
+
+### Code Snippets
+
+* I had some difficulty with my Navbar so got I got some helpful advice from a YouTube video found
+[here](https://www.youtube.com/watch?v=23bpce-5s8I&list=LL&index=8&ab_channel=Academind)
+
+
+### Acknowledgements
+
+I would like to thank my mentor Adegbenga Adeye for his help and support throughout this project. 
+
+I would also like to give thanks to a Mr. Jim Lynx who set up multiple webinars on this project and they were greatly appreciated.
+
+I would also like to give my thanks to the very helful slack community for being supportive and answering and questions I had.
