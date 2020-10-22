@@ -160,3 +160,43 @@ The contact form will include a field to enter their name, email address and a m
 Home Page Desktop:
 
 ![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-desktop.png "Home Page Desktop Wireframe")
+
+Home Page Tablet:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-tablet.png "Home Page Tablet Wireframe")
+
+Home Page Phone:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-phone.png "Home Page Phone Wireframe")
+
+About us Page Desktop:
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-desktop.png "About us Page Desktop Wireframe")
+
+About us Page Tablet:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-tablet.png "About us Page Tablet Wireframe")
+
+About us Page Phone:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-phone.png "About us Page Phone Wireframe")
+
+Contact us Page Desktop:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-desktop.png "Contact us Page Desktop Wireframe")
+
+Contact us Page Tablet:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-tablet.png "Contact us Page Tablet Wireframe")
+
+Contact us Page Phone:
+
+![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-phone.png "Contact us Page Phone Wireframe")
+
+**Links to the various wireframes can also be found below.**
+
+* Home Page
+* [Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-desktop.png)
+* [Tablet]
+* [Phone]
+
+* About us
