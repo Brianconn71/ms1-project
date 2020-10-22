@@ -195,8 +195,8 @@ Contact us Page Phone:
 **Links to the various wireframes can also be found below.**
 
 * Home Page
-* [Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-desktop.png)
-* [Tablet]
-* [Phone]
+  * [Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-desktop.png)
+  * [Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-tablet.png)
+  * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-phone.png)
 
 * About us
