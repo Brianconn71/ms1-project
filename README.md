@@ -220,10 +220,12 @@ I wanted to maintain a consistent dark theme with bright CTA buttons and make su
 The main colors used throughout the project are as follows:
 
 * #1C304A is the background color for the Navbar and footer and in certain sections throughout the website. It is a dark blue, gray kind of color which goes well with my overall theme.
-* #E5E5E5 is the color of the font on the website which I feel goes well with the dark background.
+* #E5E5E5 is the color of the font on the website which I feel goes well with the dark background. It is also the background color of sections of the website 
+which complements the font colorin well.
 * #02C8F6 is the main button color. It is a bright blue which both complements the dark background and stands out too.
+* #2A4262 is a lighter blue color used in certain sections of the website to clearly define it from the header and the footer.
 
-### Images 
+### Images     
 
 The images have all been taken from [Unsplash](www.unsplash.com) and are credited in the credits section.
 These images are primarily dark to go with the theme of the website.
