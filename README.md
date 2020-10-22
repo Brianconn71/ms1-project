@@ -200,14 +200,14 @@ Contact us Page Phone:
   * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-home-phone.png)
 
 * About us
-  *[Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-desktop.png)
-  *[Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-tablet.png)
-  *[Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-phone.png)
+  * [Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-desktop.png)
+  * [Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-tablet.png)
+  * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-phone.png)
 
 * Contact us
-  *[Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-desktop.png)
-  *[Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-tablet.png)
-  *[Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-phone.png)
+  * [Desktop](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-desktop.png)
+  * [Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-tablet.png)
+  * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-phone.png)
 
 ## Surface
 
@@ -276,7 +276,11 @@ I chose these fonts as they complement each other very well and have easy readab
 
 ## Testing 
 
+---
+
 ## Deployment
+
+---
 
 
 ## Credits
