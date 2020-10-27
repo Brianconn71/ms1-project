@@ -48,3 +48,29 @@ span .hamburger-icon{
 .nav-item, a:hover{
     color:#02C8F6;
 }
+
+/* footer*/
+footer{
+    background-color: #1C304A;
+    padding: 1rem;
+}
+.foot-head, h3{
+    color: #E5E5E5;
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.foot-deets{
+    display: flex;
+    justify-content: space-around;
+}
+.social-icons{
+    text-align: center;
+    line-height: 2em;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #02C8F6;
+    color: #E5E5E5;
+}
