@@ -48,9 +48,17 @@ span .hamburger-icon{
 .nav-item, a:hover{
     color:#02C8F6;
 }
+.navbar .nav-link{
+    text-transform: capitalize;
+    line-height: 2rem;
+}
 
 /* footer*/
 footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: #1C304A;
     padding: 1rem;
 }
@@ -64,6 +72,7 @@ footer{
 .foot-deets{
     display: flex;
     justify-content: space-around;
+    padding-top: 5px;
 }
 .social-icons{
     text-align: center;
