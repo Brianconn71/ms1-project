@@ -3,6 +3,7 @@
 body {
     padding: 0;
     margin: 0;
+    overflow: hidden;
 }
 
 /* colors */
@@ -52,7 +53,9 @@ span .hamburger-icon{
     text-transform: capitalize;
     line-height: 2rem;
 }
-
+.menu-link{
+    font-size: 6rem;
+}
 /* footer*/
 footer{
     position: fixed;
@@ -82,4 +85,15 @@ footer{
     border-radius: 50%;
     background-color: #02C8F6;
     color: #E5E5E5;
+}
+/* header */
+.hdr{
+    height: 75vh;
+    width: 100vw;
+}
+.header-image {
+    background: url("../images/manson-avenue.jpg");
+    background-size: cover;
+    background-position: 70% 20%;
+    background-repeat: no-repeat;
 }
