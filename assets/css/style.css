@@ -105,7 +105,25 @@ footer{
     justify-content: space-around;
 }
 
-
+/*Review section complete, got help from W3 schools and Gary Simon youtube channel to finish it */
+.review-heading{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color:#1C304A;
+    height: 5vh;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+.review-para{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #1C304A;
+    height: 2vh;
+    margin-top: 1rem;
+}
 .review-img{
     height: 5rem;
     width: 5rem;
@@ -115,7 +133,7 @@ footer{
     margin-bottom: 2rem;
 }
 .review-section{
-    height: 90vh;;
+    height: 90vh;
 }
 figure{
     margin-top: 2rem;
@@ -126,6 +144,7 @@ figure{
     font-family: 'Roboto', sans-serif;
     font-size: 0.8rem;
     font-weight: 500;
+    color: #1C304A;
 }
 .review-border{
     border-right: 0.1rem #1C304A solid;
@@ -134,9 +153,37 @@ figure{
     font-family: 'Roboto', sans-serif;
     font-size: 0.8rem;
     font-weight: 300;
+    color: #1C304A;
 }
+
+/*band merchandise section */
+.band-merch{
+    height: 90vh;
+    width: 100%;
+    background-color: #2A4262;
+}
+.band-merch-head{
+    color:#E5E5E5;
+    text-align: center;
+}
+
+
+
+/*media queries */
+
 @media only screen and (max-width: 768px){
     .review-border{
         border-right: hidden;
+    }
+}
+@media only screen and (max-width: 443px){
+    .review-heading{
+        font-size: 1rem;
+    }
+    .review-para{
+        font-size: 0.8rem;
+    }
+    .manson-logo{
+        font-size: 1rem;
     }
 }
