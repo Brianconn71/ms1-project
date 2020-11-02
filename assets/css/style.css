@@ -5,6 +5,8 @@ body {
     margin: 0;
     height: 100%;
     background-color: #E5E5E5;
+    overflow: auto;
+    overflow-x: hidden;
 }
 
 /* colors */
@@ -163,7 +165,6 @@ figure{
     height: 100%;
     width: 100vw;
     background-color: #2A4262;
-    overflow: hidden;
 }
 .band-merch-head{
     text-align: center;
@@ -190,6 +191,7 @@ figure{
     background-color: #02C8F6;
     border-color: #02C8F6;
     color: #E5E5E5;
+    width: 50%;
     position: absolute;
     bottom: 2%;
     left: 0;
