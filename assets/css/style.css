@@ -224,7 +224,7 @@ figure{
 
 /*Concert Schedule section */
 .concert-schedule{
-    height: 100vh;
+    height: 120vh;
 }
 .concert-head{
     text-align: center;
@@ -235,6 +235,42 @@ figure{
     margin-top: 1rem;
     margin-bottom: 1rem;
     padding: 0.8rem;
+}
+.upcoming-concert-details {
+    background-color: #1C304A;
+    margin-bottom: 5%;
+}
+/* had an issue with transitioning the element and I got the answer here https://travis.media/how-to-make-an-item-grow-on-hover-with-css/ */
+.upcoming-concert-details:hover{
+    transition: all .5s ease-in-out;
+    transform: scale(1.1);
+}
+.upcoming-concert-head{
+    color:#E5E5E5;
+    background-color: #1c304A;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.upcoming-concert-body{
+    color:#E5E5E5;
+    display: flex;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin: 0 auto;
+}
+/* got help with my table placement from https://www.w3docs.com/snippets/css/how-to-create-space-between-rows-in-the-table.html */
+.concert-table {
+  border-collapse: separate;
+  border-spacing: 0 1.5rem;
+}
+.concert-details{
+    width: 15rem;
+    text-align: center;
 }
 /*media queries */
 
