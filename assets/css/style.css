@@ -115,12 +115,12 @@ footer{
 .review-heading{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-    color:#1C304A;
-    height: 5vh;
+    font-weight: 500;
+    color: #1C304A;
+    height: 10%;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    padding: 0.5rem;
+    padding: 0.8rem;
 }
 .review-para{
     font-size: 1rem;
@@ -176,11 +176,13 @@ figure{
     margin-bottom: 1rem;
     padding: 0.8rem;
 }
+/* Got help with the shadow of the box from https://codepen.io/sdthornton/pen/wBZdXq */
 .band-merch-card{
     margin-left: 15%;
     margin-bottom: 15%;
     height: 90%;
     background-color: #E5E5E5;
+    box-shadow: 0 1.9rem 3.8rem rgba(0,0,0,0.30), 0 1.5rem 1.2rem rgba(0,0,0,0.22);
 }
 .merch-img{
     height: 30vh;
@@ -213,13 +215,27 @@ figure{
     font-weight: 500;
     color: #1C304A;
 }
-.card-body{
+.card-body-text{
     text-align: left;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: #1C304A;
 }
 
+/*Concert Schedule section */
+.concert-schedule{
+    height: 100vh;
+}
+.concert-head{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #1C304A;
+    height: 10%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0.8rem;
+}
 /*media queries */
 
 @media only screen and (max-width: 768px){
@@ -241,11 +257,13 @@ figure{
         font-size: 1rem;
     }
 }
-@media only screen and(min-width: 768px){
-    .review-section{
-        height: 60%
-    }
+@media screen and (min-width: 767px){
+    
     .merch-img{
         height: 30vh;
+    }
+    .review-img{
+        height: 7.5rem;
+        width: 7.5rem;
     }
 }
