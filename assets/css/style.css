@@ -225,7 +225,8 @@ figure{
 
 /*Concert Schedule section */
 .concert-schedule{
-    height: 100vh;
+    height: 100%;
+    margin-bottom: 3rem;
 }
 .concert-head{
     text-align: center;
@@ -234,9 +235,10 @@ figure{
     color: #1C304A;
     height: 10%;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
     padding: 0.5rem;
 }
+/* learned more about Box shadows here https://css-tricks.com/almanac/properties/b/box-shadow/ */
 .upcoming-concert-details {
     background-color: #1C304A;
     margin-bottom: 4rem;
