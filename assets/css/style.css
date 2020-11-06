@@ -240,6 +240,7 @@ figure{
 .upcoming-concert-details {
     background-color: #1C304A;
     margin-bottom: 4rem;
+    box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem #1C304A;
 }
 /* had an issue with transitioning the element and I got the answer here https://travis.media/how-to-make-an-item-grow-on-hover-with-css/ */
 .upcoming-concert-details:hover{
