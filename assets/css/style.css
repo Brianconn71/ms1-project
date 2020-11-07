@@ -53,9 +53,12 @@ span .hamburger-icon{
 .nav-item, a:hover{
     color:#02C8F6;
 }
-.navbar .nav-link{
+.navbar .nav-menu-items{
     text-transform: capitalize;
     line-height: 2rem;
+    font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 .menu-link{
     font-size: 6rem;
@@ -92,8 +95,9 @@ footer{
 }
 /* header */
 .hdr{
-    height: 75vh;
+    height: 85vh;
     width: 100vw;
+    position: relative;
 }
 .header-image {
     background: url("../images/manson-avenue.jpg");
@@ -102,10 +106,24 @@ footer{
     background-repeat: no-repeat;
     overflow: hidden;
 }
-.cta-btns{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+.hdr-cta{
+    display: block;
+    position: relative;
+    height: 4rem;
+    width: 80%;
+    border-radius: 4rem;
+    top: 52.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+#hdr-cta-btn1{
+    display: block;
+    text-align:center;
+}
+#hdr-cta-btn2{
+    display: block;
+    text-align:center;
 }
 
 /*Review section complete, got help from W3 schools and Gary Simon youtube channel to finish it */
@@ -234,15 +252,17 @@ figure{
     font-weight: 500;
     color: #1C304A;
     height: 10%;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     margin-bottom: 3rem;
     padding: 0.5rem;
 }
 /* learned more about Box shadows here https://css-tricks.com/almanac/properties/b/box-shadow/ */
 .upcoming-concert-details {
     background-color: #1C304A;
+    height: 80%;
     margin-bottom: 4rem;
     box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem #1C304A;
+    border-color: #1C304A;
 }
 /* had an issue with transitioning the element and I got the answer here https://travis.media/how-to-make-an-item-grow-on-hover-with-css/ */
 .upcoming-concert-details:hover{
@@ -303,10 +323,13 @@ figure{
 @media screen and (min-width: 767px){
     
     .merch-img{
-        height: 30vh;
+        height: 20vh;
     }
     .review-img{
         height: 7.5rem;
         width: 7.5rem;
+    }
+    .hdr{
+        height: 75vh;
     }
 }
