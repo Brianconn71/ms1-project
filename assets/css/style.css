@@ -119,11 +119,34 @@ footer{
 }
 #hdr-cta-btn1{
     display: block;
-    text-align:center;
+    text-align: center;
+    background-color: #02c8F6;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-shadow: 0.1rem 0.1rem #1C304A;
+    letter-spacing: 0.1rem;
+    color:#E5E5E5;
+    border: 0.1rem solid #02C8F6
 }
 #hdr-cta-btn2{
     display: block;
     text-align:center;
+    background-color: transparent;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-shadow: 0.1rem 0.1rem #1C304A;
+    letter-spacing: 0.1rem;
+    color: rgb(241, 241, 241);
+    border: 0.2rem solid #02C8F6;
+}
+.cta-text, .cta-text:link{
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.cta-text:hover{
+    color: #E5E5E5
 }
 
 /*Review section complete, got help from W3 schools and Gary Simon youtube channel to finish it */
@@ -331,5 +354,14 @@ figure{
     }
     .hdr{
         height: 75vh;
+    }
+}
+@media screen and (min-width: 600px){
+    #hdr-cta-btn1, #hdr-cta-btn2{
+        display: inline-block;
+        width: 30%;
+        top: 75%;
+        margin-left: 10%;
+        margin-right: 5%;
     }
 }
