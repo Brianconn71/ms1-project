@@ -148,6 +148,44 @@ footer{
 .cta-text:hover{
     color: #E5E5E5
 }
+.contact-header{
+    background: url("../images/microphone-pic.jpg");
+    background-size: cover;
+    background-position: 55% 40%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+/* Jumbotron on the contact form using some bootstrap display properties */
+.contact-form-jumbotron{
+    background-color: transparent;
+    position: absolute;
+    top: 45%;
+    right: 0;
+    margin-right: auto;
+    padding: 0;
+}
+.contact-form-question{
+    color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    text-align: right;
+    padding: 0.8rem;
+    margin-right: 10%;
+}
+.contact-form-text{
+    color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 0.9rem;
+    text-align: justify;
+    margin-top: 5%;
+    padding: 0.5rem 2rem;
+    
+}
+.contact-us-form{
+    height: 100vh;
+}
 
 /*Review section complete, got help from W3 schools and Gary Simon youtube channel to finish it */
 .review-section{
@@ -269,7 +307,7 @@ figure{
     height: 100%;
     margin-bottom: 3rem;
 }
-.concert-head{
+.h2-head{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
@@ -319,6 +357,11 @@ figure{
     width: 15rem;
     text-align: center;
 }
+
+/* Contact us form */
+.contact-us-form{
+    text-align: center;
+}
 /*media queries */
 
 @media only screen and (max-width: 768px){
@@ -354,6 +397,24 @@ figure{
     }
     .hdr{
         height: 75vh;
+    }
+    .contact-form-jumbotron{
+        top: 35%;
+    }
+    .contact-form-question{
+        font-size: 2.5rem;
+    }
+    .contact-form-text{
+        font-size: 1.4rem;
+        margin-top: 5%;
+        margin-left: 25%;
+        padding: 0.5rem 8rem;
+
+    }
+}
+@media screen and (min-width: 400px){
+    .contact-form-text{
+        margin-left: 25%;
     }
 }
 @media screen and (min-width: 600px){
