@@ -183,10 +183,45 @@ footer{
     padding: 0.5rem 2rem;
     
 }
-.contact-us-form{
-    height: 100vh;
+/* contact us form section, got help with styling the contact form from https://stackoverflow.com/questions/19714274/css-aligning-text-boxes-with-labels */
+.contact-section{
+    height: 100%;
+    margin-bottom: 45%;
 }
-
+.contact-us-form{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 10%;
+}
+.labels{
+    text-align: center;
+    padding-right: 1rem;
+    display: inline-block;
+    min-width: 10rem;
+    font-family: 'Roboto', sans-serif;
+    color: #1C304A;
+}
+.inputs{
+    display: inline-block;
+    width: 50%;
+    margin: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.contact-form-submit{
+    display: inline-block;
+    width: 15rem;
+    background-color: #02C8F6;
+    color: #E5E5E5;
+    margin-top: 10%;
+}
+.contact-form-submit:hover{
+    background-color: #02C8F6;
+    color: #E5E5E5;
+}
+/* neeed help to sort out the placement of my text area label https://stackoverflow.com/questions/1839403/how-do-i-align-a-label-and-a-textarea */
+textarea{ 
+    vertical-align: middle;
+}​
 /*Review section complete, got help from W3 schools and Gary Simon youtube channel to finish it */
 .review-section{
     height: 90%;
@@ -410,6 +445,9 @@ figure{
         margin-left: 25%;
         padding: 0.5rem 8rem;
 
+    }
+    .contact-section{
+        margin-bottom: 30%;
     }
 }
 @media screen and (min-width: 400px){
