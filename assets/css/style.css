@@ -144,6 +144,7 @@ footer{
 .cta-text, .cta-text:link{
     text-transform: capitalize;
     text-decoration: none;
+    font-weight: 500;
 }
 .cta-text:hover{
     color: #E5E5E5
@@ -181,7 +182,6 @@ footer{
     text-align: justify;
     margin-top: 5%;
     padding: 0.5rem 2rem;
-    
 }
 /* contact us form section, got help with styling the contact form from https://stackoverflow.com/questions/19714274/css-aligning-text-boxes-with-labels */
 .contact-section{
@@ -347,6 +347,7 @@ figure{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     color: #1C304A;
+    text-transform: capitalize;
     height: 10%;
     margin-top: 1.5rem;
     margin-bottom: 3rem;
@@ -396,6 +397,27 @@ figure{
 /* Contact us form */
 .contact-us-form{
     text-align: center;
+}
+
+/* Band Members section about.html */
+.band-members{
+    height: 100%;
+    width: 100%;
+    background-color: #2A4262;
+    margin-bottom: 20%;
+}
+.band-members-head{
+    color: #E5E5E5;
+}
+.col-half-offset{
+    margin-left: 4.166666667%
+}
+p{
+    color: palegreen;
+}
+.story-manson-avenue{
+    height: 100vh;
+    width: 100%;
 }
 /*media queries */
 
