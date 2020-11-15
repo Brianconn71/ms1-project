@@ -409,11 +409,28 @@ figure{
 .band-members-head{
     color: #E5E5E5;
 }
-.col-half-offset{
-    margin-left: 4.166666667%
+.band-member-name{
+    color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: center;
 }
-p{
-    color: palegreen;
+.band-member-role{
+    color: #E5E5E5;
+    font-family: 'Roboto',sans-serif;
+    font-size: 0.8rem;
+    font-weight: 200;
+    text-align: center;
+}
+.band-member-information{
+    color: #E5E5E5;
+    font-family: 'Roboto',sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: justify;
+    padding: 0.8rem;
+    margin-bottom: 1.8rem
 }
 .story-manson-avenue{
     height: 100vh;
@@ -470,6 +487,9 @@ p{
     }
     .contact-section{
         margin-bottom: 30%;
+    }
+    .band-members{
+        margin-bottom: 8%;
     }
 }
 @media screen and (min-width: 400px){
