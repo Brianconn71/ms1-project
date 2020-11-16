@@ -53,6 +53,13 @@ span .hamburger-icon{
 .nav-item, a:hover{
     color:#02C8F6;
 }
+.nav-fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
 .navbar .nav-menu-items{
     text-transform: capitalize;
     line-height: 2rem;
@@ -95,7 +102,7 @@ footer{
 }
 /* header */
 .hdr{
-    height: 85vh;
+    height: 90vh;
     width: 100vw;
     position: relative;
 }
@@ -112,7 +119,7 @@ footer{
     height: 4rem;
     width: 80%;
     border-radius: 4rem;
-    top: 52.5%;
+    top: 60%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10%;
@@ -499,7 +506,7 @@ figure{
         width: 7.5rem;
     }
     .hdr{
-        height: 75vh;
+        height: 85vh;
     }
     .contact-form-jumbotron{
         top: 35%;
