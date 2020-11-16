@@ -410,6 +410,17 @@ figure{
     text-align: center;
 }
 
+/* Carousel images about.html */
+/* Had some issues with carousel image placement that i got resolved here https://stackoverflow.com/questions/50679599/how-to-resize-image-with-css-without-altering-image-quality */
+.carosel-img{
+    height: 100vh;
+    position: relative;
+    object-fit: cover;
+    object-position: 60% 50%;
+}
+.carousel-indicators li {
+    display: none;
+}
 /* Band Members section about.html */
 .band-members{
     height: 100%;
