@@ -254,14 +254,13 @@ textarea{
     height: 2vh;
     margin-top: 1rem;
 }
-/* had some issues with sizing of the images, a solution was found here https://medium.com/@kimcodeashian/simple-css-solutions-how-to-resize-images-with-different-dimensions-without-cropping-eb744e93246d */
+/* had some issues with sizing of the images, a solution was found here https://stackoverflow.com/questions/50679599/how-to-resize-image-with-css-without-altering-image-quality */
 .review-img{
     height: 5rem;
     width: 5rem;
     border-radius: 50%;
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    object-fit:cover;
+    object-position: 50% 50%;
     display: block;
     margin: 0 auto;
     margin-bottom: 2rem;
