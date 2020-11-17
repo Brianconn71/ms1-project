@@ -17,7 +17,7 @@ body {
     overflow-x: hidden;
 }
 
-/* colors */
+/* Nav colors */
 .nav-bg-col {
     background-color: #1C304A;
 }
@@ -506,11 +506,19 @@ figure{
     width: 80%;
     background-color: #02C8F6;
     color: #E5E5E5;
+    text-transform: capitalize;
     font-size: 1rem;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
     border-radius: 4rem;
     border: 1px solid #02C8F6;
+}
+#about-us-cta a{
+    text-decoration: none;
+}
+#about-us-cta:hover{
+    background-color: #1C304A;
+    border-color: #1C304A;
 }
 /*media queries */
 
