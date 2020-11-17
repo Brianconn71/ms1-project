@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&family=Roboto:wght@100;300;400;500;700&display=swap');
 
 body {
@@ -87,8 +94,11 @@ footer{
     font-weight: 300;
 }
 .foot-deets{
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-around;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
     padding-top: 5px;
 }
 .social-icons{
@@ -219,19 +229,20 @@ footer{
     width: 15rem;
     background-color: #02C8F6;
     color: #E5E5E5;
-    margin-top: 10%;
+    margin-top: 5%;
+    border-radius: 4rem;
     border: 1px solid #02C8F6;
 }
 .contact-form-submit:hover{
-    background-color: #02C8F6;
-    color: #E5E5E5;
+    background-color: #1C304A;
 }
-/* neeed help to sort out the placement of my text area label https://stackoverflow.com/questions/1839403/how-do-i-align-a-label-and-a-textarea */
-textarea{ 
+
+/* need help to sort out the placement of my text area label https://stackoverflow.com/questions/1839403/how-do-i-align-a-label-and-a-textarea */
+textarea {
     vertical-align: middle;
-}​
+}
 /*Review section complete, got help from W3 schools and Gary Simon youtube channel to finish it */
-.review-section{
+.review-section {
     height: 90%;
     margin-bottom: 5%;
 }
@@ -259,8 +270,10 @@ textarea{
     height: 5rem;
     width: 5rem;
     border-radius: 50%;
-    object-fit:cover;
-    object-position: 50% 50%;
+    -o-object-fit:cover;
+       object-fit:cover;
+    -o-object-position: 50% 50%;
+       object-position: 50% 50%;
     display: block;
     margin: 0 auto;
     margin-bottom: 2rem;
@@ -308,7 +321,8 @@ figure{
     margin-bottom: 15%;
     height: 95%;
     background-color: #E5E5E5;
-    box-shadow: 0 1.9rem 3.8rem rgba(0,0,0,0.30), 0 1.5rem 1.2rem rgba(0,0,0,0.22);
+    -webkit-box-shadow: 0 1.9rem 3.8rem rgba(0,0,0,0.30), 0 1.5rem 1.2rem rgba(0,0,0,0.22);
+            box-shadow: 0 1.9rem 3.8rem rgba(0,0,0,0.30), 0 1.5rem 1.2rem rgba(0,0,0,0.22);
 }
 .merch-img{
     height: 30vh;
@@ -324,6 +338,7 @@ figure{
     bottom: 2%;
     left: 0;
     right: 0;
+    border-radius: 4rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -369,13 +384,18 @@ figure{
     background-color: #1C304A;
     height: 80%;
     margin-bottom: 4rem;
-    box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem #1C304A;
+    -webkit-box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem #1C304A;
+            box-shadow: 0.3rem 0.3rem 0.9rem 0.2rem #1C304A;
     border-color: #1C304A;
 }
 /* had an issue with transitioning the element and I got the answer here https://travis.media/how-to-make-an-item-grow-on-hover-with-css/ */
 .upcoming-concert-details:hover{
+    -webkit-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
-    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+            transform: scale(1.1);
 }
 .upcoming-concert-head{
     color:#E5E5E5;
@@ -388,6 +408,8 @@ figure{
 }
 .upcoming-concert-body{
     color:#E5E5E5;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     font-size: 1rem;
     font-family: 'Roboto', sans-serif;
@@ -415,8 +437,10 @@ figure{
 .carosel-img{
     height: 100vh;
     position: relative;
-    object-fit: cover;
-    object-position: 60% 50%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: 60% 50%;
+       object-position: 60% 50%;
 }
 .carousel-indicators li {
     display: none;
@@ -485,6 +509,7 @@ figure{
     font-size: 1rem;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
+    border-radius: 4rem;
     border: 1px solid #02C8F6;
 }
 /*media queries */
