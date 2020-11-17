@@ -146,6 +146,10 @@ footer{
     color:#E5E5E5;
     border: 0.1rem solid #02C8F6
 }
+#hdr-cta-btn1:hover{
+    background-color: #1C304A;
+    border-color: #1C304A;
+}
 #hdr-cta-btn2{
     display: block;
     text-align:center;
@@ -158,13 +162,16 @@ footer{
     color: rgb(241, 241, 241);
     border: 0.2rem solid #02C8F6;
 }
+#hdr-cta-btn2:hover{
+    border-color: #1C304A;
+}
 .cta-text, .cta-text:link{
     text-transform: capitalize;
     text-decoration: none;
     font-weight: 500;
 }
 .cta-text:hover{
-    color: #E5E5E5
+    color: #02C8F6;
 }
 .contact-header{
     background: url("../images/microphone-pic.jpg");
