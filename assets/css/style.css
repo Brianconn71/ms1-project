@@ -240,11 +240,12 @@ https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-di
     display: inline-block;
     width: 50%;
     margin: 1rem;
+    border: 1px solid #1C304A;
     font-family: 'Roboto', sans-serif;
 }
 .contact-form-submit{
     display: inline-block;
-    width: 15rem;
+    width: 14rem;
     background-color: #02C8F6;
     color: #E5E5E5;
     margin-top: 5%;
@@ -253,6 +254,7 @@ https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-di
 }
 .contact-form-submit:hover{
     background-color: #1C304A;
+    color: #02C8F6;
 }
 
 /* need help to sort out the placement of my text area label https://stackoverflow.com/questions/1839403/how-do-i-align-a-label-and-a-textarea */
@@ -374,12 +376,14 @@ figure{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    font-size: 0.9rem;
     color: #1C304A;
 }
 .card-body-text{
     text-align: left;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    font-size: 0.8rem;
     color: #1C304A;
 }
 
@@ -496,7 +500,7 @@ figure{
     font-weight: 300;
     text-align: justify;
     padding: 0.8rem;
-    margin-bottom: 4rem;
+    margin-bottom: 5rem;
 }
 .story-manson-avenue{
     height: 100%;
@@ -533,15 +537,12 @@ figure{
     border-radius: 4rem;
     border: 1px solid transparent;
 }
-#about-us-cta a{
-    text-decoration: none;
-}
 #about-us-cta:hover{
     background-color: #1C304A;
+    color: #02C8F6;
     border-color: transparent;
 }
 /*media queries */
-
 @media only screen and (max-width: 768px){
     .review-border{
         border-right: hidden;

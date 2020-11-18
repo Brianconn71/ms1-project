@@ -274,6 +274,9 @@ I chose these fonts as they complement each other very well and have easy readab
 * [Favicon](https://favicon.io/)
   * Favicon was used to make the favicon used on the site.
 
+* [TinyPNG](https://tinypng.com/)
+  * TinyPNG was used to reduce the size of the images used on the site.
+
 ---
 
 ## Testing 
