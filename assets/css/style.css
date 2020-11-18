@@ -12,6 +12,7 @@ body {
     margin: 0;
     height: 100%;
     min-height: 100%;
+    width: 100%;
     background-color: #E5E5E5;
     overflow: auto;
     overflow-x: hidden;
@@ -134,6 +135,10 @@ footer{
     margin-right: auto;
     margin-bottom: 10%;
 }
+/*Credit: Had some issues with underlining of links so I found a solution here https://ccm.net/faq/3301-remove-the-underline-under-the-links-in-html-css */
+.no-underline:link{
+    text-decoration: none;
+}
 /* Credit: When I tested the CSS in the Jigsaw validator I came across warnings for border color, found a solution here 
 https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-different-colors-even-when-color-values-are-sam */
 #hdr-cta-btn1{
@@ -151,6 +156,7 @@ https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-di
 #hdr-cta-btn1:hover{
     background-color: #1C304A;
     border-color: transparent;
+    color: #02C8F6;
 }
 #hdr-cta-btn2{
     display: block;
@@ -165,12 +171,15 @@ https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-di
     border: 0.2rem solid #02C8F6;
 }
 #hdr-cta-btn2:hover{
-    border-color: #1C304A;
+    background-color: #1C304A;
+    border-color: transparent;
+    color: #02C8F6;
 }
-.cta-text, .cta-text:link{
+.cta-text{
     text-transform: capitalize;
     text-decoration: none;
     font-weight: 500;
+    margin-top: 4%;
 }
 .cta-text:hover{
     color: #02C8F6;
@@ -336,6 +345,8 @@ figure{
 .merch-img{
     height: 30vh;
     width: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
 }
 /* got some help with centering my buttons on stack overflow at https://stackoverflow.com/questions/8508275/how-to-center-a-position-absolute-element */
 .merch-buy-btn{
@@ -353,11 +364,11 @@ figure{
 }
 .merch-buy-btn:hover{
     background-color: #1C304A;
+    color: #02C8F6;
 }
-.buy-now-text, .buy-now-text:link{
+.buy-now-text{
     text-transform: uppercase;
     text-decoration: none;
-    
 }
 .card-head{
     text-align: center;
