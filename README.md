@@ -16,22 +16,30 @@ to find out the story and personalities of the band members. I also wanted to en
 ## Table of Contents
 
 1. [UX](#ux)
-    1. [Description](#description)
+    1. [Project Description](#description)
+
+2. [Strategy](#strategy)
+    1. [Manson Avenue Goals/Objectives](#manson-goals)
+    2.[User Stories](#user-stories)
+
+3. [Scope](#scope)
+
 
 # UX <a name="ux"></a>
 
-### Description <a name="description"></a>
+### Project Description <a name="description"></a>
 
-This project was undertaken based on some personal inspiration I had based on the fact that a lot of musicians websites are quite clunky, hard to manouver and there is always a sense that there is too much going on. I wanted to implement a minimalist stye
-that appeals to new fans and old fans. 
+This project was undertaken based on some personal inspiration I had based on the fact that a lot of musicians websites are quite clunky, hard to manouver and there is always a sense that there is too much going on. I wanted to implement a minimalist style
+that appeals to new fans and old fans. I wanted fans and others to be able to get a feel for the bands personality in the website and 
+I wanted the imagery and colors to reflect a "smoky" indie rock type band. I wanted to make it easy for fans to get in touch with the band and I wanted it to be easy for an event organiser looking for a band to be able to contact Manson avenue.
 
 The main Nav bar at the top of the page will be fixed and should stay at the top of the page as a user scrolls so to make for much easier 
-navigation. I wanted to adhere to consistency so I had a main hero image across all pages with a carosel of pictures from the band
+navigation. I wanted to adhere to consistency so I had a main header image across all pages with a carosel of pictures from the band
 on the about us page. The footer remains consistent throught the website.
 
-## Strategy
+## Strategy <a name="strategy"></a>
 
-### Manson Avenue Goals/Objectives
+### Manson Avenue Goals/Objectives <a name="manson-goals"></a>
 
 * "We want to make it easy for fans, businesses and agencies to find us and to contact us through the site"
 
@@ -39,8 +47,10 @@ on the about us page. The footer remains consistent throught the website.
 
 * "We want current fans to see our concert schedule and we want new fans to see where our next concerts will be so they can come and see us play"
 
+* "We want to give a sense of our own personality and the bands personality in the way the website looks"
 
-### User Stories
+
+### User Stories <a name="user-stories"></a>
 
 * "I want to be able to contact Manson Avenue"
 
@@ -51,11 +61,11 @@ a present"
 
 * "I have an event, I need a band, I want to book Manson Avenue for a gig, How do I contact them?"
 
-## Scope
+## Scope <a name="user-stories"></a>
 
-### Features
+### Features <a name="user-stories"></a>
 
-#### Website Overall
+#### Website Overall <a name="user-stories"></a>
 
 The overall website will have 3 pages, across the three pages will be the same navbar and footer.
 The header will be consistent across all pages although the home page and the contact us page will have a main hero image while the About us page 
@@ -64,7 +74,7 @@ will have a carosel of images.
 There will be Call to action buttons on each page and the navbar at the top of the page will be the main source of navigation throughout the website.
 
 
-#### Home page
+#### Home page <a name="user-stories"></a>
 
 The Home page will consist of:
 
@@ -85,7 +95,7 @@ clothing on sale from Manson Avenue. This feature will benefit the band and also
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-#### About Us page
+#### About Us page <a name="user-stories"></a>
 
 The About us page will consist of:
 
@@ -105,7 +115,7 @@ This will again allow fans to relate to the band and let them see there personal
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-#### Contact Us page
+#### Contact Us page <a name="user-stories"></a>
 
 The Contact Us page will consist of:
 
@@ -122,13 +132,13 @@ to make it easier and much more straight forward to understand what the page is 
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-### Future Features/Improvements
+### Future Features/Improvements <a name="user-stories"></a>
 
 * A blog which would allow Band members to post stories and for the band to announce new tour dates etc.
 
 * A cart, checkout and payment system to allow fans to purchase tickets and merchandise on the website.
 
-## Structure
+## Structure <a name="user-stories"></a>
 
 I decided to split the website up into three different pages with each page having a key role to play in the overall look and feel of the site.
 
@@ -159,9 +169,9 @@ that is to fill out the contact form below and submit it.
 
 The contact form will include a field to enter their name, email address and a message or query that the user may have for the band.
 
-## Skeleton
+## Skeleton <a name="user-stories"></a>
 
-### WireFrames
+### WireFrames <a name="user-stories"></a>
 
 Home Page Desktop:
 
@@ -215,13 +225,13 @@ Contact us Page Phone:
   * [Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-tablet.png)
   * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-phone.png)
 
-## Surface
+## Surface <a name="user-stories"></a>
 
 The Surface plane of the website is all about the visual representation of the information dislayed. It was important for me to keep a consistent
 "smoky" theme to the website. I modelled the band around a kind of Indie rock band. Indie Rock always gives a feel of "smokiness" or edginess.
 I wanted to maintain a consistent dark theme with bright CTA buttons and make sure the writing on the website had easy readability.
 
-### Color
+### Color <a name="user-stories"></a>
 
 The main colors used throughout the project are as follows:
 
@@ -231,12 +241,12 @@ which complements the font colorin well.
 * #02C8F6 is the main button color. It is a bright blue which both complements the dark background and stands out too.
 * #2A4262 is a lighter blue color used in certain sections of the website to clearly define it from the header and the footer.
 
-### Images     
+### Images <a name="user-stories"></a>     
 
 The images have all been taken from [Unsplash](www.unsplash.com) and are credited in the credits section.
 These images are primarily dark to go with the theme of the website.
 
-### Fonts
+### Fonts <a name="user-stories"></a>
 
 There are two fonts in use throughout the website. The main heading font is [Montserrat](https://fonts.google.com/specimen/Montserrat?query=monts) and the paragraph writing and sub text is [Roboto](https://fonts.google.com/specimen/Roboto?query=robo).
 The default font will also be sans-serif.
@@ -245,7 +255,7 @@ I chose these fonts as they complement each other very well and have easy readab
 
 ---
 
-# Technologies used
+# Technologies used <a name="user-stories"></a>
 
 * [HTML5](https://html.com/html5/)
   * HTML5 was the primary language used in the creation of this website.
@@ -285,24 +295,66 @@ I chose these fonts as they complement each other very well and have easy readab
 
 ---
 
-## Testing 
+## Testing <a name="user-stories"></a>
 
 ---
 
-## Deployment
+## Deployment <a name="user-stories"></a>
 
+The project was developed using the [Gitpod](https://www.gitpod.io/) IDE, it was committed to git and pushed to github using the built-in function within Gitpod.
+
+In order to deploy this site to Github pages from its [Github Repository](https://github.com/Brianconn71/ms1-project), the following steps were taken.
+
+    1. Log into [Github](https://github.com/) 
+    2. From the list of available repositories, select **Brianconn71/ms1-project**.
+    3. From the menu items near the top of the page, select **Settings**.
+    4. Scroll down to the **GitHub Pages** section.
+    5. Under **Source**, click the drop-down menu labelled **None** and select **Master**.
+    6. On selecting Master Branch the page is automatically refreshed, the website is then automatically deployed.
+    7. Scroll back down towards **GitHub Pages** section and retrieve the link to the deployed website.
+
+### How to run the project locally <a name="user-stories"></a>
+
+To clone this project into gitpod you will need:
+
+    1. A GitHub account. [Create one here](https://github.com/)
+    2. Use the Chrome Browser.
+
+Then follow the below steps:
+
+    1. Install the [Gitpod Browser Extension for Chrome](https://www.gitpod.io/docs/browser-extension/)
+    2. After Installation, restart the browser.
+    3. Log into [Gitpod](https://www.gitpod.io/) with your gitpod account.
+    4. Navigate to the [Project Repository on GitHub](https://github.com/Brianconn71/ms1-project).
+    5. Click on the green **Gitpod** button in the top right corner of the repository.
+    6. This will trigger a new Gitpod workspace to be created from the code in GitHub where you can work locally.
+
+To work on this project within a local IDE such as VSCode, Pycharm etc:
+
+    1. Follow this link to the [Project GitHub Repository](https://github.com/Brianconn71/ms1-project).
+    2. Under the Repository name, click "Clone or Download".
+    3. In the Clone with HTTPs section, copy the clone URL for the repository.
+    4. In your local IDE, Open the Terminal.
+    5. Change the current working directory to the location where you want the cloned directory to be made.
+    6. Type git clone , and then paste the Url you copied in Step 3.
+
+    git clone https://github.com/USERNAME/REPOSITORY
+
+    7. Press Enter. Your local clone will then be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 ---
 
 
-## Credits
+## Credits <a name="user-stories"></a>
 
-### Content
+### Content <a name="user-stories"></a>
 
 * The idea for the website was my own. I wanted to make a nice, simple, minimalist design for a bands webpage.
 However, I did get some inspiration for media querys and overall how to make an attractive responsive website from Gary Simon
 on YouTube and his fantastic video which can be found [here](https://www.youtube.com/watch?v=8gNrZ4lAnAw&list=LL&index=13&t=3058s&ab_channel=DesignCourse).
 
-### media
+### Media <a name="user-stories"></a>
 
 
 * I used Unsplash for all of the images on the site. I have linked them below.
@@ -317,13 +369,13 @@ on YouTube and his fantastic video which can be found [here](https://www.youtube
   * [Band Member 5 About us Page](https://unsplash.com/photos/P4gXe-RsEXI)
   * [Microphone image on Contact us Page](https://unsplash.com/photos/QrqeusbpFMM)
 
-### Code Snippets
+### Code Snippets <a name="user-stories"></a>
 
 * I had some difficulty with my Navbar so got I got some helpful advice from a YouTube video found
 [here](https://www.youtube.com/watch?v=23bpce-5s8I&list=LL&index=8&ab_channel=Academind)
 
 
-### Acknowledgements
+### Acknowledgements <a name="user-stories"></a>
 
 I would like to thank my mentor Adegbenga Adeye for his help and support throughout this project. 
 
