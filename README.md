@@ -20,9 +20,15 @@ to find out the story and personalities of the band members. I also wanted to en
 
 2. [Strategy](#strategy)
     1. [Manson Avenue Goals/Objectives](#manson-goals)
-    2.[User Stories](#user-stories)
+
+    2. [User Stories](#user-stories)
 
 3. [Scope](#scope)
+    1. [Features](#features)
+       * Website Overall (#overall)
+       *
+
+    2. [Future Improvements](#future)
 
 
 # UX <a name="ux"></a>
@@ -61,11 +67,11 @@ a present"
 
 * "I have an event, I need a band, I want to book Manson Avenue for a gig, How do I contact them?"
 
-## Scope <a name="user-stories"></a>
+## Scope <a name="scope"></a>
 
 ### Features <a name="user-stories"></a>
 
-#### Website Overall <a name="user-stories"></a>
+#### Website Overall <a name="overall"></a>
 
 The overall website will have 3 pages, across the three pages will be the same navbar and footer.
 The header will be consistent across all pages although the home page and the contact us page will have a main hero image while the About us page 
@@ -74,7 +80,7 @@ will have a carosel of images.
 There will be Call to action buttons on each page and the navbar at the top of the page will be the main source of navigation throughout the website.
 
 
-#### Home page <a name="user-stories"></a>
+#### Home page 
 
 The Home page will consist of:
 
@@ -95,7 +101,7 @@ clothing on sale from Manson Avenue. This feature will benefit the band and also
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-#### About Us page <a name="user-stories"></a>
+#### About Us page 
 
 The About us page will consist of:
 
@@ -115,7 +121,7 @@ This will again allow fans to relate to the band and let them see there personal
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-#### Contact Us page <a name="user-stories"></a>
+#### Contact Us page 
 
 The Contact Us page will consist of:
 
@@ -132,7 +138,7 @@ to make it easier and much more straight forward to understand what the page is 
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-### Future Features/Improvements <a name="user-stories"></a>
+### Future Features/Improvements <a name="future"></a>
 
 * A blog which would allow Band members to post stories and for the band to announce new tour dates etc.
 
@@ -333,7 +339,7 @@ To work on this project within a local IDE such as VSCode, Pycharm etc:
 4. In your local IDE, Open the Terminal.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone , and then paste the Url you copied in Step 3.  
-code(git clone https://github.com/USERNAME/REPOSITORY)
+    git clone https://github.com/USERNAME/REPOSITORY
 7. Press Enter. Your local clone will then be created.
 
 Further reading and troubleshooting on cloning a repository from GitHub can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
@@ -348,6 +354,7 @@ Further reading and troubleshooting on cloning a repository from GitHub can be f
 However, I did get some inspiration for media querys and overall how to make an attractive responsive website from Gary Simon
 on YouTube and his fantastic video which can be found [here](https://www.youtube.com/watch?v=8gNrZ4lAnAw&list=LL&index=13&t=3058s&ab_channel=DesignCourse).
 
+* I used [Anna Greaves](https://github.com/AJGreaves/portrait-artist) README to help me with my own README and in particular the deployment section.
 ### Media <a name="user-stories"></a>
 
 
