@@ -9,15 +9,18 @@ I decided to do my project on a fictitious band, Manson Avenue, beacuse I have a
 The band name, photos [Unsplash](www.unsplash.com), and any information I have displayed on the website is entirely fictitious.
 
 I wanted to achieve a minimalist website design so as to encourage newcomers to get involved and 
-also to give current fans a way to communicate directly with the band.
+also to give current fans a way to communicate directly with the band. I wanted to make a simple websitte that enables fans old and new to find out more about the band and
+to find out the story and personalities of the band members. I also wanted to enable the band to display merchandise to there fans and to make it simple for fans to message the band and potentially make bookings for events.
 
 
 ## Table of Contents
 
+1. [UX](#ux)
+    1. [Description](#description)
 
-# UX
+# UX <a name="ux"></a>
 
-### Description
+### Description <a name="description"></a>
 
 This project was undertaken based on some personal inspiration I had based on the fact that a lot of musicians websites are quite clunky, hard to manouver and there is always a sense that there is too much going on. I wanted to implement a minimalist stye
 that appeals to new fans and old fans. 
