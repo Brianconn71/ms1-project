@@ -25,7 +25,7 @@ to find out the story and personalities of the band members. I also wanted to en
 
 3. [Scope](#scope)
     1. [Features](#features)
-       * Website Overall (#overall)
+       * [Website Overall](#overall)
        *
 
     2. [Future Improvements](#future)
