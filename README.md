@@ -51,6 +51,13 @@ to find out the story and personalities of the band members. I also wanted to en
 6. [Technologies Used](#technologies)
 
 7. [Testing](#testing)
+    * [HTML Validation](#html)
+
+    * [CSS Validation](#css)
+
+    * [User Story Testing](#user-test)
+
+    * [Home Page Testing](#home-test)
 
 8. [Deployment](#deployment)
 
@@ -89,6 +96,8 @@ on the about us page. The footer remains consistent throught the website.
 
 
 ### User Stories <a name="user-stories"></a>
+
+* "I am a new visitor to this site and I want to navigate the site efficiently and effectively do what I need to do"
 
 * "I want to be able to contact Manson Avenue"
 
@@ -331,7 +340,7 @@ I chose these fonts as they complement each other very well and have easy readab
 * [TinyPNG](https://tinypng.com/)
   * TinyPNG was used to reduce the size of the images used on the site.
 
-*[Autoprefixer](https://autoprefixer.github.io/)
+* [Autoprefixer](https://autoprefixer.github.io/)
     * Autoprefixer was used to parse my CSS file and add vendor prefixes.
 
 ---
@@ -368,8 +377,9 @@ I used Chrome Dev Tools to test on various devices below:
 
 The site is tested and responsive down to 280px.
 
+I also had family members and friends test for responsiveness of the site on there various physical devices and I received positive feedback on all of these things.
 
-### HTML Validation
+### HTML Validation <a name="html"></a>
 
 I used the [W3C Markup Validator tool](https://validator.w3.org/) to test my three different HTML pages to ensure that they were all valid and working well.
 
@@ -384,9 +394,9 @@ I then redid the tests and they passed the test and there validity was proven. T
 
 The Contact Us page of my site passed the HTML validator on the first go and had no issues.
 
-*[Contact Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/contact-pass-test.JPG)
+* [Contact Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/contact-pass-test.JPG)
 
-### CSS Validation
+### CSS Validation <a name="css"></a>
 
 I used the [W3C Markup Validator Tool](https://jigsaw.w3.org/css-validator/) to check the validation of my CSS file. I was given the below error and 15 warnings on my initial test.
 
@@ -400,8 +410,118 @@ I also fixed the 15 warnings that apeared in the CSS file. The warnings were due
 [Stack Overflow post](https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-different-colors-even-when-color-values-are-sam) and I changed the border color to be transparent.
 This fixed the warnings.
 
-*[CSS Validation Test Pass](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/css-fixed-errors.JPG)
+* [CSS Validation Test Pass](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/css-fixed-errors.JPG)
 
+### User Story Testing <a name="user-test"></a>
+
+* "I am a new visitor to this site and I want to navigate the site efficiently and effectively do what I need to do"
+    * Whichever site the new visitor/user lands on, They can easily find and use the navigation bar at the top of the page.
+    * The Logo image is always laced at the left hand side of the navigation bar and by clicking on it you are always brought back to the homepage.
+    * The CTA's on the homepage header are the most important part of the whole site and are there due to the two main reasons why a user would check out the bands site. 
+
+* "I want to be able to contact Manson Avenue"
+    * As soon as the user lands on the homepage there is a CTA which upon clicking takes them to the contact page where they can get in touch with the band.
+    * if the user is a new fan or just curious about the band then they may want to know more about them. So they may click on About Us. This page will have "The story of Manson Avenue" section which 
+    will answer some questions a user may have. Then once the user knows a bit about the band there is another CTA which brings the user to the Contact us page which again allows them to get in touch with the band.
+    * finally, in the navigation bar which is on all pages, there is a contact us link which brings the user to the contact us page where they can get in touch with the band.
+
+* "I want to be able to see and possibly purchase some band merchandise for myself or as a present"
+    * As soon as the user lands on the homepage they will see a CTA called "Band Merchandise". This CTA will link to the Band Merchandise section on the homepage which is where various Items will be available to purchase.
+    * The "Band merchandise" section is clearly labelled and easy to find on the homepage.
+
+I ran into an issue with The Band Merchandise section, I had wanted to set up a Bootstrap Modal form. This would symbolise a "cart". However, I couldn't get the modal to work the way I had initially planned it too so I abandoned that idea.
+
+* "I want to see when and where the next concert is"
+    * On the Home Page, The user only has to scroll to the bottom of the page to see the "Concert Schedule" section. This will fulfill the need of the user. It is clearly labelled on the Homepage,
+    It is easy to read and it stands out from the rest of the information.
+
+* "I have an event, I need a band, I want to book Manson Avenue for a gig, How do I contact them?"
+    * When the user lands on the homepage there is a clear and easily labelled CTA, "Need a Band? Contact Us" which will bring the user straight to the contact us page where
+    the user will fill out a form with a message for the band.
+    * The footer will be displayed at the bottom of each page and will have links to the bands various social media profiles should a user prefer to directly message the band through social media.
+
+### Home Page testing <a name="home-test"></a>
+
+* Navigation bar
+    1. The Navigation bar is responsive and the Burger icon remains in place of the three Navigation links until the screen size goes over 1200px or an xl screen size.
+
+    1. The Navigation bar is visible across all pages and is fixed to the top of the screen so as the user scrolls down the page the navigation bar stays at the top. This is fixed to help a user to navigate throughout the site.
+
+    2. The logo/text of "Manson Avenue" always appears on the left of the Nav bar and is responsive throughout all screen size changes.
+
+    3. Hover over the links in the nav bar and the logo to make sure they change color upon the mouse hovering over them.
+
+    4. Click on each link in the nav bar to ensure it links to the correct page.
+
+    4. Verify that the burger icon works, that the collapsed menu works correctly and that the links work correctly too.
+
+    5. ensure the nav bar is functional and all links remain functional on different size screens and different physical devices.
+
+* Header
+    1. Go to the "Home" page.
+
+    2. Ensure the image is visible, ensure that there is no overflow of the image.
+
+    3. Ensure that the image is visible throughout the different screen sizes and again that there is no overflow of the image.
+
+* Header CTA's
+    1. Go to the "Home" page.
+
+    2. Ensure that both CTA's are visible on top of the header image and ensure they are lined up correctly.
+
+    3. Change to different screen sizes to ensure thaat both the CTA buttons are responsive and change size and display depending on the various screen changes.
+
+    4. Ensure that at mobile level the CTA's are displayed over each other.
+
+    5. Ensure that both buttons are working correctly and link to the proper sections.
+
+    6. Ensure that the buttons change size and colors whilst a user hovers over them.
+
+* Band review section
+    1. Scroll down on the "Home" page.
+
+    2. Ensure that this section expands and reduces upon the changing of different screen sizes from mobile to desktop.
+
+    2. Ensure the heading and text change size at screen changes.
+
+    3. Ensure the border line between the two reviews disappears at mobile levl screen size.
+
+    4. Ensure the images used get bigger and smaller depending on the screen size.
+
+* Band Merchandise section
+    1. Scroll down on "Home" page to the "Band Merchandise" section.
+
+    2. Ensure the Bootstrap cards change sizes at different size screens.
+
+    3. Ensure the images in the cards are displaying properly and fit well so theres no stretching.
+
+    4. Ensure the Buy now buttons are centered and at the bottom of the cards.
+
+    5. Ensure the Buy now buttons change color and size when hovering over them.
+
+    6. Ensure that small screens show one card ber line, medium shows two card per line and large screens show all three.
+
+* Concert Schedule section
+    1. Scroll down on "Home" page to the "concert schedule" Section.
+
+    2. Ensure that the tables fit in the cards perfectly and there is no overflow.
+
+    3. Ensure that the cards grow when hovered over.
+
+    4. Ensure that small screens show one div per line, medium screens show 2 per line and large screens show all concerts on the same line.
+
+    5. Ensure the information lines up correctly and that the header text is centered.
+
+* footer
+    1. Ensure the footer displays along the bottom of each page in the site and is fully responsive at all screen sizes.
+
+    2. Ensure the footer is fixed to the bottom of the screen.
+
+    3. Ensure that all social media links work and link to the correct social media site.
+
+    4. Click on each link to ensure that it works correctly.
+
+    5. Ensure that the social media links are responsive at different screen sizes and are fully responsive.
 
 ---
 
@@ -443,8 +563,8 @@ To work on this project within a local IDE such as VSCode, Pycharm etc:
     git clone https://github.com/USERNAME/REPOSITORY
 7. Press Enter. Your local clone will then be created.
 
-
 Further reading and troubleshooting on cloning a repository from GitHub can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
 ---
 
 
