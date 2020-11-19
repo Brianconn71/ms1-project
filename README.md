@@ -331,22 +331,78 @@ I chose these fonts as they complement each other very well and have easy readab
 * [TinyPNG](https://tinypng.com/)
   * TinyPNG was used to reduce the size of the images used on the site.
 
+*[Autoprefixer](https://autoprefixer.github.io/)
+    * Autoprefixer was used to parse my CSS file and add vendor prefixes.
+
 ---
 
 ## Testing <a name="testing"></a>
+
+All of the testing on the site was done manually.
+
+I used Chrome Dev Tools to test on various devices below:
+
+* Galaxy fold
+
+* iPhone5/SE 
+
+* Pixel 2
+
+* Galaxy S5
+
+* Moto G4
+
+* iPhone 6/7/8
+
+* Surface Duo 
+
+* iPhone 6/7/8 Plus 
+
+* Galaxy S9/S9+/S10e 
+
+* iPhone X/Xs 
+
+* Pixel 2 XL
+
+* 720p + 1080p screens
+
+The site is tested and responsive down to 280px.
+
 
 ### HTML Validation
 
 I used the [W3C Markup Validator tool](https://validator.w3.org/) to test my three different HTML pages to ensure that they were all valid and working well.
 
-I initially had some difficulty with the testing of the HTML pages. The [Home Page]() and [Contact Us Page]() had similar errors when I checked them the first time.
+I initially had some difficulty with the testing of the HTML pages. The [Home Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/index-html-check.JPG) and [About Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/about-html-check.JPG) had similar errors when I checked them the first time.
 I hadn't realised that I had a tags as descendents of button tags and so I changed the code to use A tags with a role of button.
 
 I then redid the tests and they passed the test and there validity was proven. The passed tests can be seen by following the below links.
 
-* [HomePage]()
+* [HomePage](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/index-html-fix.JPG)
 
-* [Contact Us Page]()
+* [About Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/about-html-fixed-error.JPG)
+
+The Contact Us page of my site passed the HTML validator on the first go and had no issues.
+
+*[Contact Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/contact-pass-test.JPG)
+
+### CSS Validation
+
+I used the [W3C Markup Validator Tool](https://jigsaw.w3.org/css-validator/) to check the validation of my CSS file. I was given the below error and 15 warnings on my initial test.
+
+* [CSS file errors](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/failed-test.JPG)
+
+I spent a long time researching how to fix the parse error. There were many differing answers as to what the type of error was and how to fix the error. I followed advice from this
+[Stack Overflow](https://stackoverflow.com/questions/14111733/what-is-a-parse-error-and-how-do-i-fix-it) message and answer. It turns out there was an invisible character, much like a blank space, 
+after one of my closing brackets in the CSS file. It took some time to get this fixed and get it working but I eventually did.
+
+I also fixed the 15 warnings that apeared in the CSS file. The warnings were due to The background color and the border color being the same in certain elements. Again, I followed advice from this 
+[Stack Overflow post](https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-different-colors-even-when-color-values-are-sam) and I changed the border color to be transparent.
+This fixed the warnings.
+
+*[CSS Validation Test Pass](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/css-fixed-errors.JPG)
+
+
 ---
 
 ## Deployment <a name="deployment"></a>
@@ -386,6 +442,7 @@ To work on this project within a local IDE such as VSCode, Pycharm etc:
 
     git clone https://github.com/USERNAME/REPOSITORY
 7. Press Enter. Your local clone will then be created.
+
 
 Further reading and troubleshooting on cloning a repository from GitHub can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 ---
