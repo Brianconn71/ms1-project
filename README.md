@@ -2,6 +2,7 @@
 
 ![alt text](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/responsive-site.JPG "Responsive design of Manson Avenue webpage")
 
+[View site in GitHub Pages](https://brianconn71.github.io/ms1-project/)
 
 My project for Milestone 1 of the Code Institute full stack developer course is on a fictitious band called Manson Avenue.
 
