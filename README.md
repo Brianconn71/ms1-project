@@ -304,7 +304,6 @@ I chose these fonts as they complement each other very well and have easy readab
 The project was developed using the [Gitpod](https://www.gitpod.io/) IDE, it was committed to git and pushed to github using the built-in function within Gitpod.
 
 In order to deploy this site to Github pages from its [Github Repository](https://github.com/Brianconn71/ms1-project), the following steps were taken.
-
     1. Log into [Github](https://github.com/) 
     2. From the list of available repositories, select **Brianconn71/ms1-project**.
     3. From the menu items near the top of the page, select **Settings**.
