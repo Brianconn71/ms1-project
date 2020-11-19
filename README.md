@@ -26,7 +26,8 @@ to find out the story and personalities of the band members. I also wanted to en
 3. [Scope](#scope)
     1. [Features](#features)
        * [Website Overall](#overall)
-       *
+
+       * [Home Page](#home)
 
     2. [Future Improvements](#future)
 
@@ -80,7 +81,7 @@ will have a carosel of images.
 There will be Call to action buttons on each page and the navbar at the top of the page will be the main source of navigation throughout the website.
 
 
-#### Home page 
+#### Home page <a name="home"></a>
 
 The Home page will consist of:
 
