@@ -35,32 +35,32 @@ to find out the story and personalities of the band members. I also wanted to en
 
     2. [Future Improvements](#future)
     
-    3. [Structure](#structure)
+3. [Structure](#structure)
 
-    4. [Skeleton](#skeleton)
-        * [Wireframes](#wireframes)
+4. [Skeleton](#skeleton)
+    * [Wireframes](#wireframes)
     
-    5. [Surface](#surface)
-        * [Colors](#color)
+5. [Surface](#surface)
+    * [Colors](#color)
 
-        * [Images](#images)
+    * [Images](#images)
 
-        * [Fonts](#fonts)
+    * [Fonts](#fonts)
     
-    6. [Technologies Used](#technologies)
+6. [Technologies Used](#technologies)
 
-    7. [Testing](#testing)
+7. [Testing](#testing)
 
-    8. [Deployment](#deployment)
+8. [Deployment](#deployment)
 
-    9. [Credits](#credits)
-        * [Content](#content)
+9. [Credits](#credits)
+    * [Content](#content)
 
-        * [Media](#media)
+    * [Media](#media)
 
-        * [Code Snippets](#code)
+    * [Code Snippets](#code)
 
-        * [Acknowledgements](#acknowledgement)
+    * [Acknowledgements](#acknowledgement)
 
 # UX <a name="ux"></a>
 
