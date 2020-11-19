@@ -333,7 +333,7 @@ To work on this project within a local IDE such as VSCode, Pycharm etc:
 4. In your local IDE, Open the Terminal.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone , and then paste the Url you copied in Step 3.  
-git clone https://github.com/USERNAME/REPOSITORY
+code(git clone https://github.com/USERNAME/REPOSITORY)
 7. Press Enter. Your local clone will then be created.
 
 Further reading and troubleshooting on cloning a repository from GitHub can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
