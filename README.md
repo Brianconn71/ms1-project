@@ -335,6 +335,18 @@ I chose these fonts as they complement each other very well and have easy readab
 
 ## Testing <a name="testing"></a>
 
+### HTML Validation
+
+I used the [W3C Markup Validator tool](https://validator.w3.org/) to test my three different HTML pages to ensure that they were all valid and working well.
+
+I initially had some difficulty with the testing of the HTML pages. The [Home Page]() and [Contact Us Page]() had similar errors when I checked them the first time.
+I hadn't realised that I had a tags as descendents of button tags and so I changed the code to use A tags with a role of button.
+
+I then redid the tests and they passed the test and there validity was proven. The passed tests can be seen by following the below links.
+
+* [HomePage]()
+
+* [Contact Us Page]()
 ---
 
 ## Deployment <a name="deployment"></a>
