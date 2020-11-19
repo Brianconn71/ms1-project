@@ -29,8 +29,38 @@ to find out the story and personalities of the band members. I also wanted to en
 
        * [Home Page](#home)
 
-    2. [Future Improvements](#future)
+       * [About Us Page](#about)
 
+       * [Contact Us Page](#contact)
+
+    2. [Future Improvements](#future)
+    
+    3. [Structure](#structure)
+
+    4. [Skeleton](#skeleton)
+        * [Wireframes](#wireframes)
+    
+    5. [Surface](#surface)
+        * [Colors](#color)
+
+        * [Images](#images)
+
+        * [Fonts](#fonts)
+    
+    6. [Technologies Used](#technologies)
+
+    7. [Testing](#testing)
+
+    8. [Deployment](#deployment)
+
+    9. [Credits](#credits)
+        * [Content](#content)
+
+        * [Media](#media)
+
+        * [Code Snippets](#code)
+
+        * [Acknowledgements](#acknowledgement)
 
 # UX <a name="ux"></a>
 
@@ -102,7 +132,7 @@ clothing on sale from Manson Avenue. This feature will benefit the band and also
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-#### About Us page 
+#### About Us page <a name="about"></a>
 
 The About us page will consist of:
 
@@ -122,7 +152,7 @@ This will again allow fans to relate to the band and let them see there personal
 * The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
 of Manson Avenue.
 
-#### Contact Us page 
+#### Contact Us page <a name="contact"></a>
 
 The Contact Us page will consist of:
 
@@ -145,7 +175,7 @@ of Manson Avenue.
 
 * A cart, checkout and payment system to allow fans to purchase tickets and merchandise on the website.
 
-## Structure <a name="user-stories"></a>
+## Structure <a name="structure"></a>
 
 I decided to split the website up into three different pages with each page having a key role to play in the overall look and feel of the site.
 
@@ -176,9 +206,9 @@ that is to fill out the contact form below and submit it.
 
 The contact form will include a field to enter their name, email address and a message or query that the user may have for the band.
 
-## Skeleton <a name="user-stories"></a>
+## Skeleton <a name="skeleton"></a>
 
-### WireFrames <a name="user-stories"></a>
+### WireFrames <a name="wireframes"></a>
 
 Home Page Desktop:
 
@@ -232,13 +262,13 @@ Contact us Page Phone:
   * [Tablet](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-contact-tablet.png)
   * [Phone](https://github.com/Brianconn71/ms1-project/blob/master/assets/wireframes/manson-avenue-about-phone.png)
 
-## Surface <a name="user-stories"></a>
+## Surface <a name="surface"></a>
 
 The Surface plane of the website is all about the visual representation of the information dislayed. It was important for me to keep a consistent
 "smoky" theme to the website. I modelled the band around a kind of Indie rock band. Indie Rock always gives a feel of "smokiness" or edginess.
 I wanted to maintain a consistent dark theme with bright CTA buttons and make sure the writing on the website had easy readability.
 
-### Color <a name="user-stories"></a>
+### Color <a name="color"></a>
 
 The main colors used throughout the project are as follows:
 
@@ -248,12 +278,12 @@ which complements the font colorin well.
 * #02C8F6 is the main button color. It is a bright blue which both complements the dark background and stands out too.
 * #2A4262 is a lighter blue color used in certain sections of the website to clearly define it from the header and the footer.
 
-### Images <a name="user-stories"></a>     
+### Images <a name="images"></a>     
 
 The images have all been taken from [Unsplash](www.unsplash.com) and are credited in the credits section.
 These images are primarily dark to go with the theme of the website.
 
-### Fonts <a name="user-stories"></a>
+### Fonts <a name="fonts"></a>
 
 There are two fonts in use throughout the website. The main heading font is [Montserrat](https://fonts.google.com/specimen/Montserrat?query=monts) and the paragraph writing and sub text is [Roboto](https://fonts.google.com/specimen/Roboto?query=robo).
 The default font will also be sans-serif.
@@ -262,7 +292,7 @@ I chose these fonts as they complement each other very well and have easy readab
 
 ---
 
-# Technologies used <a name="user-stories"></a>
+## Technologies used <a name="technologies"></a>
 
 * [HTML5](https://html.com/html5/)
   * HTML5 was the primary language used in the creation of this website.
@@ -302,11 +332,11 @@ I chose these fonts as they complement each other very well and have easy readab
 
 ---
 
-## Testing <a name="user-stories"></a>
+## Testing <a name="testing"></a>
 
 ---
 
-## Deployment <a name="user-stories"></a>
+## Deployment <a name="deployment"></a>
 
 The project was developed using the [Gitpod](https://www.gitpod.io/) IDE, it was committed to git and pushed to github using the built-in function within Gitpod.
 
@@ -340,6 +370,7 @@ To work on this project within a local IDE such as VSCode, Pycharm etc:
 4. In your local IDE, Open the Terminal.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone , and then paste the Url you copied in Step 3.  
+
     git clone https://github.com/USERNAME/REPOSITORY
 7. Press Enter. Your local clone will then be created.
 
@@ -347,16 +378,17 @@ Further reading and troubleshooting on cloning a repository from GitHub can be f
 ---
 
 
-## Credits <a name="user-stories"></a>
+## Credits <a name="credits"></a>
 
-### Content <a name="user-stories"></a>
+### Content <a name="content"></a>
 
 * The idea for the website was my own. I wanted to make a nice, simple, minimalist design for a bands webpage.
 However, I did get some inspiration for media querys and overall how to make an attractive responsive website from Gary Simon
 on YouTube and his fantastic video which can be found [here](https://www.youtube.com/watch?v=8gNrZ4lAnAw&list=LL&index=13&t=3058s&ab_channel=DesignCourse).
 
 * I used [Anna Greaves](https://github.com/AJGreaves/portrait-artist) README to help me with my own README and in particular the deployment section.
-### Media <a name="user-stories"></a>
+
+### Media <a name="media"></a>
 
 
 * I used Unsplash for all of the images on the site. I have linked them below.
@@ -371,16 +403,16 @@ on YouTube and his fantastic video which can be found [here](https://www.youtube
   * [Band Member 5 About us Page](https://unsplash.com/photos/P4gXe-RsEXI)
   * [Microphone image on Contact us Page](https://unsplash.com/photos/QrqeusbpFMM)
 
-### Code Snippets <a name="user-stories"></a>
+### Code Snippets <a name="code"></a>
 
 * I had some difficulty with my Navbar so got I got some helpful advice from a YouTube video found
 [here](https://www.youtube.com/watch?v=23bpce-5s8I&list=LL&index=8&ab_channel=Academind)
 
 
-### Acknowledgements <a name="user-stories"></a>
+### Acknowledgements <a name="acknowledgement"></a>
 
 I would like to thank my mentor Adegbenga Adeye for his help and support throughout this project. 
 
 I would also like to give thanks to a Mr. Jim Lynx who set up multiple webinars on this project and they were greatly appreciated.
 
-I would also like to give my thanks to the very helful slack community for being supportive and answering and questions I had.
+I would also like to give my thanks to the very helpful slack community for being supportive and answering any questions I had.
