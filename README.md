@@ -154,7 +154,7 @@ The About us page will consist of:
 
 * A navbar at the top of the page which will be used consistenty throughout the website as the main source of navigation.
 
-* There will then be a carosel of 5 images, these will be images of the band and some of there concerts 
+* There will then be a carosel of 4 images, these will be images of the band and some of there concerts 
 and showing the fans enjoying themselves at the concerta this will create a positive impression for newcomers aiming to know as much as they can about the band.
 
 * Then there will be three questions that a new fan may want to know such as Who are Manson Avenue and Where did it all begin? These questions will have answers underneath the headings.
@@ -728,16 +728,16 @@ I also used some different styling classes from bootstrap to help display my con
 
 
 * I used Unsplash for all of the images on the site. I have linked them below.
-  * [Hero Image on Home Page](https://unsplash.com/photos/Jxd7dzQqdl8)
-  * [Male reviewer on Home Page](https://unsplash.com/photos/DItYlc26zVI)
-  * [Female reviewer on Home Page](https://unsplash.com/photos/rDEOVtE7vOs)
-  * [Carosel image 1 on About us Page](https://unsplash.com/photos/eC0P7kl_jXs)
-  * [Band Member 1 About us Page](https://unsplash.com/photos/QA-qQfWJM0E)
-  * [Band Member 2 About us Page](https://unsplash.com/photos/eivYBKv3MAs)
-  * [Band Member 3 About Us Page](https://unsplash.com/photos/uKHNBVLmFqQ)
-  * [Band Member 4 About us Page](https://unsplash.com/photos/aSivyt-3yIw)
-  * [Band Member 5 About us Page](https://unsplash.com/photos/P4gXe-RsEXI)
-  * [Microphone image on Contact us Page](https://unsplash.com/photos/QrqeusbpFMM)
+  * [Header Image on Home Page](https://unsplash.com/photos/Jxd7dzQqdl8) taken by [Raphael Nast](https://unsplash.com/@apollon)
+  * [Male reviewer on Home Page](https://unsplash.com/photos/DItYlc26zVI) taken by [Christian Buehner](https://unsplash.com/@christianbuehner)
+  * [Female reviewer on Home Page](https://unsplash.com/photos/rDEOVtE7vOs)  taken by [Christopher Campbell](https://unsplash.com/@chrisjoelcampbell)
+  * [Carousel image 1 on About us Page](https://unsplash.com/photos/eC0P7kl_jXs) taken by [Austin Neill](https://unsplash.com/@arstyy)
+  * [Band Member 1 About us Page](https://unsplash.com/photos/QA-qQfWJM0E) taken by [Melanie Van Leeuwen](https://unsplash.com/@strompictures)
+  * [Band Member 2 About us Page](https://unsplash.com/photos/eivYBKv3MAs) taken by [Tim Mossholder](https://unsplash.com/@timmossholder)
+  * [Band Member 3 About Us Page](https://unsplash.com/photos/uKHNBVLmFqQ) taken by [The Nigmatic](https://unsplash.com/@thenigmatic)
+  * [Band Member 4 About us Page](https://unsplash.com/photos/aSivyt-3yIw) taken by [Lily Fischer](https://unsplash.com/@lilyrosemary)
+  * [Band Member 5 About us Page](https://unsplash.com/photos/P4gXe-RsEXI) taken by [Neonbrand](https://unsplash.com/@neonbrand)
+  * [Microphone image on Contact us Page](https://unsplash.com/photos/QrqeusbpFMM) taken by [Matthias Wagner](https://unsplash.com/@matwag)
 
 ### Code Snippets <a name="code"></a>
 
@@ -769,7 +769,6 @@ I got it resolved with this [Stack Overflow Post]( https://stackoverflow.com/que
 
 * Resolved issues I had with Carousel images with this [Stack Overflow post](https://stackoverflow.com/questions/50679599/how-to-resize-image-with-css-without-altering-image-quality)
 
-* 
 
 ### Acknowledgements <a name="acknowledgement"></a>
 
