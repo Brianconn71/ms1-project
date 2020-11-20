@@ -349,6 +349,9 @@ I chose these fonts as they complement each other very well and have easy readab
 * [Autoprefixer](https://autoprefixer.github.io/)
     * Autoprefixer was used to parse my CSS file and add vendor prefixes.
 
+* [Hover.css](https://ianlunn.github.io/Hover/)
+    * I used Hover.css for some of the hover effects on the site.
+
 ---
 
 ## Testing <a name="testing"></a>
@@ -703,6 +706,24 @@ on YouTube and his fantastic video which can be found [here](https://www.youtube
 
 * I used [Anna Greaves](https://github.com/AJGreaves/portrait-artist) README to help me with my own README and in particular the deployment section.
 
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) elements that were used:
+    * [Cards](https://getbootstrap.com/docs/4.5/components/card/)
+
+    * [Grid](https://getbootstrap.com/docs/4.5/layout/grid/)
+
+    * [Buttons](https://getbootstrap.com/docs/4.5/components/buttons/)
+
+    * [Carousel](https://getbootstrap.com/docs/4.5/components/carousel/)
+
+    * [Jumbotron](https://getbootstrap.com/docs/4.5/components/jumbotron/)
+
+    * [Navbar](https://getbootstrap.com/docs/4.5/components/navbar/)
+
+I also used some different styling classes from bootstrap to help display my content more clearly such as [Typography](https://getbootstrap.com/docs/4.5/content/typography/).
+
+* [W3 Schools](https://www.w3schools.com/) was used as the first call for troubleshooting needs.
+
+
 ### Media <a name="media"></a>
 
 
@@ -723,6 +744,32 @@ on YouTube and his fantastic video which can be found [here](https://www.youtube
 * I had some difficulty with my Navbar so got I got some helpful advice from a YouTube video found
 [here](https://www.youtube.com/watch?v=23bpce-5s8I&list=LL&index=8&ab_channel=Academind)
 
+* Gary Simon's Youtube video gave me help and guidance in completing the reviews section [here](https://www.youtube.com/watch?v=8gNrZ4lAnAw&list=LL&index=20&t=4010s&ab_channel=DesignCourse)
+
+* In making my "Logo" for manson avenue, I had difficulty with line-spacing, line-height and whitespace.
+I got it resolved with this [Stack Overflow Post]( https://stackoverflow.com/questions/3587390/how-can-i-make-text-appear-on-next-line-instead-of-overflowing#3587411)
+
+* Had an issue with Underlinks in a tags, I reslved the issue with this [Stack Overflow Post](https://ccm.net/faq/3301-remove-the-underline-under-the-links-in-html-css)
+
+* In testing my CSS I discovered an issue with background and borde colors being the same, I got the issue resolved with this [Stack Overflow Post](https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-different-colors-even-when-color-values-are-sam)
+
+* Got help with styling my contact form with this [Stack Overflow post](https://stackoverflow.com/questions/19714274/css-aligning-text-boxes-with-labels)
+
+* Got help with placement of my textarea label in the contact form with this[Stack Overflow Post](https://stackoverflow.com/questions/1839403/how-do-i-align-a-label-and-a-textarea)
+
+* Had an issue with image sizing, I resolved it using this [Stack Overflow Post](https://stackoverflow.com/questions/50679599/how-to-resize-image-with-css-without-altering-image-quality)
+
+* Got help with box-shadowing using a google search result [Here](https://codepen.io/sdthornton/pen/wBZdXq) I also used [CSS Tricks](https://css-tricks.com/almanac/properties/b/box-shadow/) to help in another section too.
+
+* Got help with centering buttons with this [Stack Overflow Post](https://stackoverflow.com/questions/8508275/how-to-center-a-position-absolute-element)
+
+* Learned more and got help with transitioning [Here](https://travis.media/how-to-make-an-item-grow-on-hover-with-css/)
+
+* Got help with table placement from [Here](https://www.w3docs.com/snippets/css/how-to-create-space-between-rows-in-the-table.html)
+
+* Resolved issues I had with Carousel images with this [Stack Overflow post](https://stackoverflow.com/questions/50679599/how-to-resize-image-with-css-without-altering-image-quality)
+
+* 
 
 ### Acknowledgements <a name="acknowledgement"></a>
 
