@@ -59,6 +59,12 @@ to find out the story and personalities of the band members. I also wanted to en
 
     * [Home Page Testing](#home-test)
 
+    * [About Us Testing](#about-us-test)
+
+    * [Contact Us Testing](#contact-test)
+
+    * [Other Testing](#other-test)
+
 8. [Deployment](#deployment)
 
 9. [Credits](#credits)
@@ -640,6 +646,7 @@ below:
 * [Mobile About Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-about-mobile.JPG)
 
 * [Mobile Contact Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-contact-mobile.JPG)
+
 
 ---
 
