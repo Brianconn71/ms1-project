@@ -6,12 +6,12 @@
 
 My project for Milestone 1 of the Code Institute full stack developer course is on a fictitious band called Manson Avenue.
 
-I decided to do my project on a fictitious band, Manson Avenue, beacuse I have a keen interest in music and there are a lot of singers and bands thats don't have great websites. So, I decided to make my own.
+I decided to do my project on a fictitious band, Manson Avenue, beacuse I have a keen interest in music and there are a lot of singers and bands that don't have great websites. So, I decided to make my own.
 The band name, photos [Unsplash](www.unsplash.com), and any information I have displayed on the website is entirely fictitious.
 
 I wanted to achieve a minimalist website design so as to encourage newcomers to get involved and 
-also to give current fans a way to communicate directly with the band. I wanted to make a simple websitte that enables fans old and new to find out more about the band and
-to find out the story and personalities of the band members. I also wanted to enable the band to display merchandise to there fans and to make it simple for fans to message the band and potentially make bookings for events.
+also to give current fans a way of communicating directly with the band. I wanted to make a simple website that enables fans old and new to find out more about the band and
+to find out the story and personalities of the band members. I also wanted to enable the band to display merchandise to their fans and to make it simple for fans to message the band and potentially make bookings for events.
 
 
 ## Table of Contents
@@ -80,13 +80,13 @@ to find out the story and personalities of the band members. I also wanted to en
 
 ### Project Description <a name="description"></a>
 
-This project was undertaken based on some personal inspiration I had based on the fact that a lot of musicians websites are quite clunky, hard to manouver and there is always a sense that there is too much going on. I wanted to implement a minimalist style
+This project was undertaken based on some personal inspiration I had based on the fact that a lot of musician's websites are quite clunky, hard to manouver and there is always a sense that there is too much going on. I wanted to implement a minimalist style
 that appeals to new fans and old fans. I wanted fans and others to be able to get a feel for the bands personality in the website and 
-I wanted the imagery and colors to reflect a "smoky" indie rock type band. I wanted to make it easy for fans to get in touch with the band and I wanted it to be easy for an event organiser looking for a band to be able to contact Manson avenue.
+I wanted the imagery and colours to reflect a "smoky" indie rock type band. I wanted to make it easy for fans to get in touch with the band and I wanted it to be easy for an event organiser looking for a band to be able to contact Manson Avenue.
 
-The main Nav bar at the top of the page will be fixed and should stay at the top of the page as a user scrolls so to make for much easier 
-navigation. I wanted to adhere to consistency so I had a main header image across all pages with a carosel of pictures from the band
-on the about us page. The footer remains consistent throught the website.
+The main Navigation bar at the top of the page will be fixed and should stay at the top of the page as a user scrolls so to make for much easier 
+navigation. I wanted to adhere to consistency so I had a main header image across all pages with a carousel of pictures from the band
+on the About Us page. The footer remains consistent throughout the website.
 
 ## Strategy <a name="strategy"></a>
 
@@ -98,21 +98,21 @@ on the about us page. The footer remains consistent throught the website.
 
 * "We want current fans to see our concert schedule and we want new fans to see where our next concerts will be so they can come and see us play"
 
-* "We want to give a sense of our own personality and the bands personality in the way the website looks"
+* "We want to give a sense of our own personality and the band's personality in the way the website looks"
 
 
 ### User Stories <a name="user-stories"></a>
 
-* "I am a new visitor to this site and I want to navigate the site efficiently and effectively do what I need to do"
+* "I am a new visitor to this site and I want to navigate the site efficiently and effectively carry out what I need to do"
 
 * "I want to be able to contact Manson Avenue"
 
 * "I want to be able to see and possibly purchase some band merchandise for myself or as 
 a present"
 
-* "I want to see when and where there next concert is"
+* "I want to see when and where their next concert is"
 
-* "I have an event, I need a band, I want to book Manson Avenue for a gig, How do I contact them?"
+* "I have an event, I need a band, I want to book Manson Avenue for a gig, how do I contact them?"
 
 ## Scope <a name="scope"></a>
 
@@ -120,11 +120,11 @@ a present"
 
 #### Website Overall <a name="overall"></a>
 
-The overall website will have 3 pages, across the three pages will be the same navbar and footer.
-The header will be consistent across all pages although the home page and the contact us page will have a main hero image while the About us page 
-will have a carosel of images.
+The overall website will have 3 pages. The three pages will have the same navbar and footer.
+The header will be consistent across all pages although the Home page and the Contact Us page will have a main header image while the About us page 
+will have a carousel of images.
 
-There will be Call to action buttons on each page and the navbar at the top of the page will be the main source of navigation throughout the website.
+There will be Call To Action buttons on each page and the navbar at the top of the page will be the main source of navigation throughout the website.
 
 
 #### Home page <a name="home"></a>
@@ -133,56 +133,56 @@ The Home page will consist of:
 
 * A navbar at the top of the page which will be used consistenty throughout the website as the main source of navigation.
 
-* A main hero image which will show a picture of Manson avenue playing a concert with lots of fans watching them.
+* A main header image which will show a picture of Manson Avenue playing a concert with lots of fans watching them.
 I chose a minimalist pic that I feel really stands out and gives a new fan a real taste of what they can expect from Manson Avenue.
 
-* There will then be 2 CTAs on the main hero image, one which will link to the band merchandise section and another 
+* There will then be two CTAs on the main header image, one which will link to the band merchandise section and another 
 which will take a user to the contact us page where they can directly contact Manson Avenue.
 
-* Below the main hero image I will have 2 reviews from fans of the band. Again this is another chance to encourage new fans to come along to a concert or buy some merchandise and 
+* Below the main header image I will have two reviews from fans of the band. Again this is another chance to encourage new fans to come along to a concert or buy some merchandise and 
 it also gives current fans a chance to appear on the website.
 
-* Then I will have the Band merchandise section, the CTA in the main hero image will link to this, This section will allow fans new and cureent to purchasetickets to shows, CDs and 
-clothing on sale from Manson Avenue. This feature will benefit the band and also build lifetime fans who want to have a piece of the bands memorabilia.
+* Then I will have the Band merchandise section, the CTA in the main header image will link to this, This section will allow fans new and current to purchase tickets, CDs and 
+clothing on sale from Manson Avenue. This feature will benefit the band and also build lifetime fans who want to have a piece of the band's memorabilia.
 
-* The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
+* The footer at the bottom of the page will be consistent throughout the website. It will contain the social media links to the social media profiles
 of Manson Avenue.
 
 #### About Us page <a name="about"></a>
 
 The About us page will consist of:
 
-* A navbar at the top of the page which will be used consistenty throughout the website as the main source of navigation.
+* A navbar at the top of the page which will be used consistently throughout the website as the main source of navigation.
 
-* There will then be a carosel of 4 images, these will be images of the band and some of there concerts 
-and showing the fans enjoying themselves at the concerta this will create a positive impression for newcomers aiming to know as much as they can about the band.
+* There will then be a carousel of 4 images. These will be images of the band and some of their concerts 
+and showing the fans enjoying themselves at the concerts. This will create a positive impression for newcomers aiming to know as much as they can about the band.
 
-* Then there will be three questions that a new fan may want to know such as Who are Manson Avenue and Where did it all begin? These questions will have answers underneath the headings.
+* Then there will be three questions that a new fan may want to know such as: Who are Manson Avenue and Where did it all begin? These questions will have answers underneath the headings.
 This is important as it tells a new fan all they want to know about Manson Avenue and will help them to relate to the band.
 
 * Then there will be another CTA which will allow new fans to contact the band should they want to find out more about the band that hasn't been answered or allow them to just directly message the band through the contact form.
 
-* Then there is a Band Members section which will include pictures of the band members and also give some basic information about each band member such as Name age and an interesting fact.
-This will again allow fans to relate to the band and let them see there personality.
+* Then there is a Band Members section which will include pictures of the band members and also give some basic information about each band member such as Name, what they do in the band and a short paragraph on each.
+This will again allow fans to relate to the band and let them see their personality.
 
-* The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
+* The footer at the bottom of the page will be consistent throughout the website. It will contain the social media links to the social media profiles
 of Manson Avenue.
 
 #### Contact Us page <a name="contact"></a>
 
 The Contact Us page will consist of:
 
-* A navbar at the top of the page which will be used consistenty throughout the website as the main source of navigation.
+* A navbar at the top of the page which will be used consistently throughout the website as the main source of navigation.
 
 * The header will be an image of a microphone so as to give fans the sense of being handed a microphone on stage with the band.
-The header will contain some text of instructions in where to fill out the contact form and how to get in touch. A minimalist design 
-to make it easier and much more straight forward to understand what the page is used for.
+The header will contain some text of instructions on where to fill out the contact form and how to get in touch. A minimal design 
+makes it easier and much more straight forward to understand what the page is used for.
 
-* The contact form will then be displayed below that which will allow a fan user to enter there name and email along with there message or request for the band.
+* The contact form will then be displayed below that which will allow a fan user to enter their name and email along with their message or request for the band.
 
-* Below that, There will be a Submit button which will allow a fan to snd there message or request to the band.
+* Below that, there will be a Submit button which will allow a fan to send their message or request to the band.
 
-* The footer at the bottom of the page will be coonsistent throughout the website, It will contain the social media links to the social media profiles
+* The footer at the bottom of the page will be consistent throughout the website. It will contain the social media links to the social media profiles
 of Manson Avenue.
 
 ### Future Features/Improvements <a name="future"></a>
@@ -195,30 +195,30 @@ of Manson Avenue.
 
 I decided to split the website up into three different pages with each page having a key role to play in the overall look and feel of the site.
 
-The home page is the landing page of the site, It is the page that a user will first land on. I have two clear Call To Action buttons on the main hero image on the 
-home page which immediately shows the user the two main things that they could want to do on the site. The first thing is to contact the band regarding a potential concert or a general query and the second CTA directs them to the merchandise section on the home page allowing
+The home page is the landing page of the site; It is the page that a user will first land on. I have two clear Call To Action buttons on the main header image on the 
+home page which immediately shows the user the two main things that they could want to do on the site. The first thing is to contact the band regarding a potential concert or a general query and the second CTA directs them to the merchandise section on the home page, allowing
 them to browse the items for sale and make a purchase.
 
-The Navbar and the footer are consistent throughout the Website so as to allow familiarity for the users.
-I have laid out the homepage in order of the importance of the content. Some reviews of the band are put under the hero image of the home page so as to allow fans to have their say and for them to feel importance and also to allow new and potential fans 
+The navbar and the footer are consistent throughout the website so as to allow familiarity for the users.
+I have laid out the homepage in order of the importance of the content. Some reviews of the band are put under the hero image of the home page so as to allow fans to have their say and for them to feel important and also to allow new and potential fans 
 to get a feel from those in the know if they too will like Manson Avenue.
 
-The band Merchandise section on the home page allows for fans to purchase some band memorabilia and allows Manson Avenue to showcase their work.
+The Band Merchandise section on the Home page allows for fans to purchase some band memorabilia and allows Manson Avenue to showcase their work.
 
-The Concert schedule is last on the home page as it is of lesser importance to every other section but it would be of more use to a regular and long term fan who has already been on the website before and knows about the band and just wants to check 
+The Concert schedule is last on the home page as it is of lesser importance to every other section but it would be of more use to a regular and long term fan who has been on the website before and knows about the band and just wants to check 
 when and where Manson Avenue are playing next.
 
-The about Us page is a page of vital importance for the band to get some new fans and to relate to there fans. 
-The page again is structured in line of importance. The first section answers some very basic questions that fans of the band may have such as who they are and where they began. There is then a CTA allowing for users to be taken to the Contact us page.
+The About Us page is of vital importance for the band to get some new fans and to relate to their fans. 
+The page again is structured in line of importance. The first section answers some very basic questions that fans of the band may have such as who they are and where they began. There is then a CTA allowing for users to be taken to the Contact Us page.
 After reading the basic questions and answers I felt that many users may want to know more about the band or even just want to send a good luck message or possibly book them for a performance so it is here I put the CTA.
-Below that I have a section labelled Band Members. This section just gives a very small insight into the band with the hopes that they can relate with their fans.
+Below that I have a section labelled Band Members. This section just gives a very small insight into the band with the hopes that they can relate to fans.
 
-The conatct us page is laid out as minimalistic as I could have done. My main reason for this is because once Manson Avenue get a fan or user this far, the transition into a potential customer needs to be quci
+The Contact Us page is laid out as minimalistic as I could have done. My main reason for this is because once Manson Avenue get a fan or user this far, the transition into a potential customer needs to be quick
 and painless for them.
 
-The Header will include a picture of a microphone so as to giving their fans a feel of being part of the band.
+The Header will include a picture of a microphone so as to give their fans a feel of being part of the band.
 I also have some text on the header so as to make it very clear what I want a user to do once they get to this page and 
-that is to fill out the contact form below and submit it.
+which is to fill out the contact form below and submit it.
 
 The contact form will include a field to enter their name, email address and a message or query that the user may have for the band.
 
@@ -281,17 +281,17 @@ Contact us Page Phone:
 ## Surface <a name="surface"></a>
 
 The Surface plane of the website is all about the visual representation of the information dislayed. It was important for me to keep a consistent
-"smoky" theme to the website. I modelled the band around a kind of Indie rock band. Indie Rock always gives a feel of "smokiness" or edginess.
-I wanted to maintain a consistent dark theme with bright CTA buttons and make sure the writing on the website had easy readability.
+"smoky" theme to the website. I modelled the band around a kind of Indie Rock band. Indie Rock always gives a feel of "smokiness" or edginess.
+I wanted to maintain a consistent dark theme with bright CTA buttons and make sure the writing on the website has easy readability.
 
-### Color <a name="color"></a>
+### Colour <a name="color"></a>
 
 The main colors used throughout the project are as follows:
 
-* #1C304A is the background color for the Navbar and footer and in certain sections throughout the website. It is a dark blue, gray kind of color which goes well with my overall theme.
+* #1C304A is the background color for the navbar and footer as well as in certain sections throughout the website. It is a dark blue, grey kind of color which goes well with my overall theme.
 * #E5E5E5 is the color of the font on the website which I feel goes well with the dark background. It is also the background color of sections of the website 
-which complements the font colorin well.
-* #02C8F6 is the main button color. It is a bright blue which both complements the dark background and stands out too.
+which also complements the font colour.
+* #02C8F6 is the main button color. It is a bright blue which both complements the dark background and stands out.
 * #2A4262 is a lighter blue color used in certain sections of the website to clearly define it from the header and the footer.
 
 ### Images <a name="images"></a>     
@@ -326,16 +326,16 @@ I chose these fonts as they complement each other very well and have easy readab
   * GitHub was used to host the website and create the repositories for the website.
 
 * [Figma](https://www.figma.com/)
-  * Figma was where I created the wireframes for my website, I also got the colors for the website by using Figma too.
+  * Figma was where I created the wireframes for my website. I also got the colors for the website by using Figma too.
 
 * [Git](https://git-scm.com/)
-  * Git was used for version control of the site. I used git commands to regularly update, delete and add vaarious elements to the website.
+  * Git was used for version control of the site. I used git commands to regularly update, delete and add various elements to the website.
 
 * [Google Fonts](https://fonts.google.com/)
-  * I used two different fonts in the making of this site. *Montserrat* was used primarily for headings and *Robot* was used primarily for paragraph text and the smaller font sizes.
+  * I used two different fonts in the making of this site. *Montserrat* was used primarily for headings and *Roboto* was used primarily for paragraph text and the smaller font sizes.
 
 * [Font Awesome](https://fontawesome.com/)
-  * I used Icons from Font Awesome for the social media icons in the footer of the site.
+  * I used icons from Font Awesome for the social media icons in the footer of the site.
 
 * [W3](https://www.w3schools.com/)
   * W3 schools was used for troubleshooting issues I had relating to HTML5 and CSS3.
@@ -395,7 +395,7 @@ I used the [W3C Markup Validator tool](https://validator.w3.org/) to test my thr
 I initially had some difficulty with the testing of the HTML pages. The [Home Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/index-html-check.JPG) and [About Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/about-html-check.JPG) had similar errors when I checked them the first time.
 I hadn't realised that I had a tags as descendents of button tags and so I changed the code to use A tags with a role of button.
 
-I then redid the tests and they passed the test and there validity was proven. The passed tests can be seen by following the below links.
+I then redid the tests and they passed the test and their validity was proven. These successful tests can be seen by following the below links.
 
 * [HomePage](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/index-html-fix.JPG)
 
@@ -415,56 +415,56 @@ I spent a long time researching how to fix the parse error. There were many diff
 [Stack Overflow](https://stackoverflow.com/questions/14111733/what-is-a-parse-error-and-how-do-i-fix-it) message and answer. It turns out there was an invisible character, much like a blank space, 
 after one of my closing brackets in the CSS file. It took some time to get this fixed and get it working but I eventually did.
 
-I also fixed the 15 warnings that apeared in the CSS file. The warnings were due to The background color and the border color being the same in certain elements. Again, I followed advice from this 
-[Stack Overflow post](https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-different-colors-even-when-color-values-are-sam) and I changed the border color to be transparent.
+I also fixed the 15 warnings that apeared in the CSS file. The warnings were due to the background color and the border color being the same in certain elements. Again, I followed advice from this 
+[Stack Overflow post](https://stackoverflow.com/questions/35148726/border-and-background-show-up-as-different-colors-even-when-color-values-are-sam) and I changed the border colour to be transparent.
 This fixed the warnings.
 
 * [CSS Validation Test Pass](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/css-fixed-errors.JPG)
 
 ### User Story Testing <a name="user-test"></a>
 
-* "I am a new visitor to this site and I want to navigate the site efficiently and effectively do what I need to do"
-    * Whichever site the new visitor/user lands on, They can easily find and use the navigation bar at the top of the page.
-    * The Logo image is always laced at the left hand side of the navigation bar and by clicking on it you are always brought back to the homepage.
-    * The CTA's on the homepage header are the most important part of the whole site and are there due to the two main reasons why a user would check out the bands site. 
+* "I am a new visitor to this site and I want to navigate the site efficiently and effectively carry out what I need to do"
+    * Whichever site the new visitor/user lands on, they can easily find and use the navigation bar at the top of the page.
+    * The Logo image is always placed at the left hand side of the navigation bar and by clicking on it you are always brought back to the homepage.
+    * The CTAs on the homepage header are the most important part of the whole site and are there due to the two main reasons why a user would check out the band's site. 
 
 * "I want to be able to contact Manson Avenue"
     * As soon as the user lands on the homepage there is a CTA which upon clicking takes them to the contact page where they can get in touch with the band.
-    * if the user is a new fan or just curious about the band then they may want to know more about them. So they may click on About Us. This page will have "The story of Manson Avenue" section which 
-    will answer some questions a user may have. Then once the user knows a bit about the band there is another CTA which brings the user to the Contact us page which again allows them to get in touch with the band.
-    * finally, in the navigation bar which is on all pages, there is a contact us link which brings the user to the contact us page where they can get in touch with the band.
+    * If the user is a new fan or just curious about the band then they may want to know more about them. So they may click on About Us. This page will have "The story of Manson Avenue" section which 
+    will answer some questions a user may have. Then once the user knows a bit about the band there is another CTA which brings the user to the Contact Us page which again allows them to get in touch with the band.
+    * Finally, in the navigation bar which is on all pages, there is a Contact Us link which brings the user to the contact us page where they can get in touch with the band.
 
 * "I want to be able to see and possibly purchase some band merchandise for myself or as a present"
-    * As soon as the user lands on the homepage they will see a CTA called "Band Merchandise". This CTA will link to the Band Merchandise section on the homepage which is where various Items will be available to purchase.
+    * As soon as the user lands on the homepage they will see a CTA called "Band Merchandise". This CTA will link to the Band Merchandise section on the homepage which is where various items will be available to purchase.
     * The "Band merchandise" section is clearly labelled and easy to find on the homepage.
 
-I ran into an issue with The Band Merchandise section, I had wanted to set up a Bootstrap Modal form. This would symbolise a "cart". However, I couldn't get the modal to work the way I had initially planned it too so I abandoned that idea.
+I ran into an issue with The Band Merchandise section. I had wanted to set up a Bootstrap Modal form. This would symbolise a "cart". However, I couldn't get the modal to work the way I had initially planned it to so I abandoned that idea.
 
 * "I want to see when and where the next concert is"
-    * On the Home Page, The user only has to scroll to the bottom of the page to see the "Concert Schedule" section. This will fulfill the need of the user. It is clearly labelled on the Homepage,
-    It is easy to read and it stands out from the rest of the information.
+    * On the Home Page, the user only has to scroll to the bottom of the page to see the "Concert Schedule" section. This will fulfill the need of the user. It is clearly labelled on the Homepage,
+    it is easy to read and it stands out from the rest of the information.
 
-* "I have an event, I need a band, I want to book Manson Avenue for a gig, How do I contact them?"
-    * When the user lands on the homepage there is a clear and easily labelled CTA, "Need a Band? Contact Us" which will bring the user straight to the contact us page where
+* "I have an event, I need a band, I want to book Manson Avenue for a gig, how do I contact them?"
+    * When the user lands on the homepage there is a clear and easily labelled CTA: "Need a Band? Contact Us". This will bring the user straight to the Contact Us page where
     the user will fill out a form with a message for the band.
-    * The footer will be displayed at the bottom of each page and will have links to the bands various social media profiles should a user prefer to directly message the band through social media.
+    * The footer will be displayed at the bottom of each page and will have links to the band's various social media profiles should a user prefer to directly message the band through social media.
 
 ### Home Page testing <a name="home-test"></a>
 
 * Navigation bar
     1. The Navigation bar is responsive and the Burger icon remains in place of the three Navigation links until the screen size goes over 1200px or an xl screen size.
 
-    1. The Navigation bar is visible across all pages and is fixed to the top of the screen so as the user scrolls down the page the navigation bar stays at the top. This is fixed to help a user to navigate throughout the site.
+    1. The Navigation bar is visible across all pages and is fixed to the top of the screen so as the user scrolls down the page the navigation bar stays at the top. This is fixed to help a user navigate throughout the site.
 
-    2. The logo/text of "Manson Avenue" always appears on the left of the Nav bar and is responsive throughout all screen size changes.
+    2. The logo/text of "Manson Avenue" always appears on the left of the navbar and is responsive throughout all screen size changes.
 
-    3. Hover over the links in the nav bar and the logo to make sure they change color upon the mouse hovering over them.
+    3. Hover over the links in the navbar and the logo to make sure they change color upon the mouse hovering over them.
 
-    4. Click on each link in the nav bar to ensure it links to the correct page.
+    4. Click on each link in the navbar to ensure it links to the correct page.
 
     4. Verify that the burger icon works, that the collapsed menu works correctly and that the links work correctly too.
 
-    5. ensure the nav bar is functional and all links remain functional on different size screens and different physical devices.
+    5. Ensure the nav bar is functional and all links remain functional on different sized screens and different physical devices.
 
 * Header
     1. Go to the "Home" page.
@@ -473,12 +473,12 @@ I ran into an issue with The Band Merchandise section, I had wanted to set up a 
 
     3. Ensure that the image is visible throughout the different screen sizes and again that there is no overflow of the image.
 
-* Header CTA's
+* Header CTAs
     1. Go to the "Home" page.
 
-    2. Ensure that both CTA's are visible on top of the header image and ensure they are lined up correctly.
+    2. Ensure that both CTAs are visible on top of the header image and ensure they are lined up correctly.
 
-    3. Change to different screen sizes to ensure thaat both the CTA buttons are responsive and change size and display depending on the various screen changes.
+    3. Change to different screen sizes to ensure that both the CTAs are responsive and change size and display depending on the various screen changes.
 
     4. Ensure that at mobile level the CTA's are displayed over each other.
 
@@ -493,7 +493,7 @@ I ran into an issue with The Band Merchandise section, I had wanted to set up a 
 
     2. Ensure the heading and text change size at screen changes.
 
-    3. Ensure the border line between the two reviews disappears at mobile levl screen size.
+    3. Ensure the border line between the two reviews disappears at mobile level screen size.
 
     4. Ensure the images used get bigger and smaller depending on the screen size.
 
@@ -502,13 +502,13 @@ I ran into an issue with The Band Merchandise section, I had wanted to set up a 
 
     2. Ensure the Bootstrap cards change sizes at different size screens.
 
-    3. Ensure the images in the cards are displaying properly and fit well so theres no stretching.
+    3. Ensure the images in the cards are displaying properly and fit well so there's no stretching.
 
-    4. Ensure the Buy now buttons are centered and at the bottom of the cards.
+    4. Ensure the Buy Now buttons are centered and at the bottom of the cards.
 
-    5. Ensure the Buy now buttons change color and size when hovering over them.
+    5. Ensure the Buy Now buttons change color and size when hovering over them.
 
-    6. Ensure that small screens show one card ber line, medium shows two card per line and large screens show all three.
+    6. Ensure that small screens show one card per line, medium shows two cards per line and large screens show all three.
 
 * Concert Schedule section
     1. Scroll down on "Home" page to the "concert schedule" Section.
@@ -547,13 +547,11 @@ I ran into an issue with The Band Merchandise section, I had wanted to set up a 
 * Carousel Images
     1. Go to "About Us" page.
 
-    2. Ensure that all images in the carousel are working properlay and that the carousel correctly transitions from one image to the next.
+    2. Ensure that all images in the carousel are working properly and that the carousel correctly transitions from one image to the next.
 
     3. Ensure that the images are responsive and respond to the change in the screen size.
 
     4. Ensure the images are correctly positioned and that the images are not "stretched".
-
-    5. Ensure alt text appears by hovering over images.
 
     6. Ensure that the carousel responds to the mouse clicking on either arrow on the carousel.
 
@@ -573,7 +571,7 @@ I ran into an issue with The Band Merchandise section, I had wanted to set up a 
 
     3. Ensure that the button links to the correct page.
 
-    4. Ensure that when hovered over, the button changes colors and it grows.
+    4. Ensure that when hovered over, the button changes colour and it grows.
 
     5. Ensure that on large screens the button has its own line, on medium it takes up half the page and on small it has its own line.
 
