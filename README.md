@@ -512,16 +512,134 @@ I ran into an issue with The Band Merchandise section, I had wanted to set up a 
 
     5. Ensure the information lines up correctly and that the header text is centered.
 
-* footer
+* Footer
     1. Ensure the footer displays along the bottom of each page in the site and is fully responsive at all screen sizes.
 
     2. Ensure the footer is fixed to the bottom of the screen.
+
+    2. Ensure all social media links open on a new page.
 
     3. Ensure that all social media links work and link to the correct social media site.
 
     4. Click on each link to ensure that it works correctly.
 
     5. Ensure that the social media links are responsive at different screen sizes and are fully responsive.
+
+### About Us Testing <a name="about-us-test"></a>
+
+* Navigation bar
+    1. The nav bar is the same across all pages. So repeat the process from the home page for the nav bar.
+    2. Confirm the navbar is the same and code is the same.
+
+* Footer
+    1. The Footer is the same across all pages so ensure that it works correctly and the code is the same as what was observed on the home page.
+    2. Repeat the process to test the footer from the home page.
+
+* Carousel Images
+    1. Go to "About Us" page.
+
+    2. Ensure that all images in the carousel are working properlay and that the carousel correctly transitions from one image to the next.
+
+    3. Ensure that the images are responsive and respond to the change in the screen size.
+
+    4. Ensure the images are correctly positioned and that the images are not "stretched".
+
+    5. Ensure alt text appears by hovering over images.
+
+    6. Ensure that the carousel responds to the mouse clicking on either arrow on the carousel.
+
+    7. Ensure the images behave as expected with the changes in screen size.
+
+* Story of Manson Avenue section
+    1. Go to "About Us" page and scroll down to "The story of manson avenue" section.
+
+    2. Ensure that the text and headings behave as expected with the changing of screen sizes.
+
+    3. Ensure the text looks good on all devices.
+
+* Story of Manson Avenue contact us CTA 
+    1. Go to "About Us" page and scroll down to "The story of manson avenue" section.
+
+    2. Ensure that the button does and acts as it should at differing screen sizes.
+
+    3. Ensure that the button links to the correct page.
+
+    4. Ensure that when hovered over, the button changes colors and it grows.
+
+    5. Ensure that on large screens the button has its own line, on medium it takes up half the page and on small it has its own line.
+
+* Band Members section
+    1. Go to "About Us" page and scroll down to "Band Members" section.
+
+    2. Ensure that the section acts and behaves as it should at differing screen sizes.
+
+    3. Ensure the text and images are clearly visible, easy to see/read and are labelled correctly.
+
+    4. Ensure that the content behaves as it should when changing screen sizes.
+
+### Contact Us Testing <a name="contact-test"></a>
+
+I did some manual testing on the Contact Us page to make sure that the form was valid and working correctly.
+
+Please see below links to check out the testing I did on the form:
+* [First Name is Required](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/first-name-required.JPG)
+
+* [Last Name is Required](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/last-name-required.JPG)
+
+* [Email is Required](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/email-required.JPG)
+
+* [@ sign is required with an Email address](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/email-verification.JPG)
+
+* [Message is required](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/message-required.JPG)
+
+
+* Navigation bar
+    1. The nav bar is the same across all pages. So repeat the process from the home page for the nav bar.
+    2. Confirm the navbar is the same and code is the same.
+
+* Footer
+    1. The Footer is the same across all pages so ensure that it works correctly and the code is the same as what was observed on the home page.
+    2. Repeat the process to test the footer from the home page.
+
+* Header
+    1. Go to "Contact Us" page.
+
+    2. Ensure the image displays correctly and there is no overflow.
+
+    3. Ensure the Jumbotorn displays correctly.
+
+    4. Ensure that both the image and the Jumbotron act as expected across all screen sizes.
+
+    5. Ensure the text is easy to read, clearly labelled and dsiplays correctly across all screen sizes.
+
+    6. Ensure the image changes size with the different screen sizes but that the microphone is visible.
+
+    7. Ensure the layout of the text is correct.
+
+* Contact Us form
+    1. Go to "Contact Us" page and scroll to the "Contact Us" section.
+
+    2. Ensure that the form is validated which I have shown above that it is.
+
+    3. Ensure that the form acts and reacts as expected with the changes in screen size.
+
+    4. Ensure that a user can input text into each field and that it works as desired.
+
+### Other Testing <a name="other-test"></a>
+
+I did do some more testing on the website using **Chrome Dev Tools** and in particular the Lighthouse reports on the site which I have linked
+below:
+* [Desktop Homepage](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-index-desktop.JPG)
+
+* [Desktop About Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-about-desktop.JPG)
+
+* [Desktop Contact Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-contact-desktop.JPG)
+
+* [Mobile Homepage](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-index-mobile.JPG)
+
+* [Mobile About Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-about-mobile.JPG)
+
+* [Mobile Contact Us Page](https://github.com/Brianconn71/ms1-project/blob/master/assets/images/testing/lighthouse-contact-mobile.JPG)
 
 ---
 
